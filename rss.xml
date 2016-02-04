@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Mindful Way]]></title>
         <description><![CDATA[The Mindful Way]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-mindful-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 23:16:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 23:19:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-mindful-way/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A way of working with your MindCultivate ...spaciousness, clarity and presencea sense of stability whatever life brings a continuous connection to your true self be receptive to what is, however it is</p>]]></description>
-            <link>undefined5a75b966-86d6-4214-90bf-3d82b6f80f07/index.html</link>
+            <description><![CDATA[<p>A way of working with your Mind...cultivate ...</p>]]></description>
+            <link>https://thegrid.ai/the-mindful-way/5a75b966-86d6-4214-90bf-3d82b6f80f07/index.html</link>
             <guid isPermaLink="false">5a75b966-86d6-4214-90bf-3d82b6f80f07</guid>
-            <pubDate>Thu, 04 Feb 2016 23:15:58 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 23:19:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
