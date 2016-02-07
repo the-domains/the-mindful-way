@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the mindful way]]></title>
         <description><![CDATA[the mindful way]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-mindful-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:13:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 21:15:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-mindful-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05c09694-df64-4f4b-a795-afd3758fb100.JPG">]]></description>
+            <link>https://thegrid.ai/the-mindful-way/e210fefb-1da0-480c-aecd-812a065fd4e3/index.html</link>
+            <guid isPermaLink="false">e210fefb-1da0-480c-aecd-812a065fd4e3</guid>
+            <pubDate>Sun, 07 Feb 2016 20:21:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc85a3d7-9bc6-4e65-9617-bfeacd62058d.jpg">]]></description>
-            <link>undefinedee6f5bf3-ca6c-4a7c-bddb-aa59af28cc89/index.html</link>
+            <link>https://thegrid.ai/the-mindful-way/ee6f5bf3-ca6c-4a7c-bddb-aa59af28cc89/index.html</link>
             <guid isPermaLink="false">ee6f5bf3-ca6c-4a7c-bddb-aa59af28cc89</guid>
             <pubDate>Sun, 07 Feb 2016 20:18:17 GMT</pubDate>
         </item>
