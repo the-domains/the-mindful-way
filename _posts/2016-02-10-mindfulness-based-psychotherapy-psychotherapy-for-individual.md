@@ -6,24 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T19:54:07.678Z'
-dateModified: '2016-02-10T19:53:50.621Z'
-title: Mindfulness-based psychotherapy psychotherapy for individuals - couples - groups
+datePublished: '2016-02-10T20:05:59.552Z'
+dateModified: '2016-02-10T20:05:44.042Z'
+title: Mindfulness-based psychotherapy
 author: []
+sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
-published: true
 url: mindfulness-based-psychotherapy-psychotherapy-for-individual/index.html
 _type: WebPage
 
 ---
-# Mindfulness-based psychotherapy  
-psychotherapy for individuals - couples - groups
+# Mindfulness-based psychotherapy
 
 Mindfulness-based psychotherapy acknowledges your inherent capacity for healing and health. It aims to support this natural ability to heal.
 
