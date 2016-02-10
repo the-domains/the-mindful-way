@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T20:05:59.552Z'
-dateModified: '2016-02-10T20:05:44.042Z'
+datePublished: '2016-02-10T20:09:58.944Z'
+dateModified: '2016-02-10T20:09:50.780Z'
 title: Mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -33,5 +33,6 @@ Working this way offers a gentle, non-invasive approach in which you are support
 This mindful approach helps to reveal the assumptions, beliefs, expectations and underlying motives directing your thoughts, emotions and feelings.
 
 Difficulties are not seen as  negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation,  embodiment and as areas for growth.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6932af9b-864f-438a-b5d3-6e5e60d7a5bd.JPG)
 
 Difficult and painful edges conceal 'gold' - your yet to be realised potential. Banished to the shadow of your self, these are the unlived parts of you that seek recognition and complete expression.
