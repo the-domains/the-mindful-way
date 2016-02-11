@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T20:09:58.944Z'
-dateModified: '2016-02-10T20:09:50.780Z'
-title: Mindfulness-based psychotherapy
+datePublished: '2016-02-11T13:48:05.257Z'
+dateModified: '2016-02-11T13:47:48.883Z'
+title: Mindful Psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
 published: true
@@ -22,7 +22,7 @@ url: mindfulness-based-psychotherapy-psychotherapy-for-individual/index.html
 _type: WebPage
 
 ---
-# Mindfulness-based psychotherapy
+# Mindful Psychotherapy
 
 Mindfulness-based psychotherapy acknowledges your inherent capacity for healing and health. It aims to support this natural ability to heal.
 
@@ -35,4 +35,8 @@ This mindful approach helps to reveal the assumptions, beliefs, expectations and
 Difficulties are not seen as  negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation,  embodiment and as areas for growth.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6932af9b-864f-438a-b5d3-6e5e60d7a5bd.JPG)
 
-Difficult and painful edges conceal 'gold' - your yet to be realised potential. Banished to the shadow of your self, these are the unlived parts of you that seek recognition and complete expression.
+Difficult and painful edges conceal 'gold' - this gold is your yet to be realised potential. 
+
+Denying, avoiding and resisting what we find difficult means parts of our self  are banished. 
+
+Described as the shadow because we never shine the light of our attention here, these are the unlived parts of you that seek recognition and complete expression.
