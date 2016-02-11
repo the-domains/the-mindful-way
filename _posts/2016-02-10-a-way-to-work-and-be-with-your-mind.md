@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T14:49:45.694Z'
-dateModified: '2016-02-11T14:49:36.689Z'
+datePublished: '2016-02-11T14:56:47.505Z'
+dateModified: '2016-02-11T14:53:31.088Z'
 title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 Mindfulness is a mind training...
 
-Mindfulness practice for beginners involves intention and attention. 
+Training the mind involves regular practice - working with intention and attention. 
 
 It's like having agreed to be the 'driver' of your mind (intention) you  step into the driver seat and with your hands on the wheel you steer and direct the focus of your attention.  
 
