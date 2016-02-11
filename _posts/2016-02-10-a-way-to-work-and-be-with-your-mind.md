@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T14:46:28.418Z'
-dateModified: '2016-02-11T14:46:18.439Z'
+datePublished: '2016-02-11T14:49:45.694Z'
+dateModified: '2016-02-11T14:49:36.689Z'
 title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -46,4 +46,6 @@ Watch, notice and acknowledge... and with a spacious open quality of looking, si
 
 Marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses. And your intention? 
 
-To do absolutely nothing at all. Not trying to be or to go or to get or to do anything. Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. Don't interfere - do nothing.  Do nothing. Simply see and be.
+To do absolutely nothing at all. Not trying to be or to go or to get or to do anything. Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
+
+Don't interfere - do nothing.  Do nothing. Simply see and be.
