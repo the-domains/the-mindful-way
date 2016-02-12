@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T14:56:47.505Z'
-dateModified: '2016-02-11T14:53:31.088Z'
+datePublished: '2016-02-12T21:18:46.246Z'
+dateModified: '2016-02-12T01:24:22.891Z'
 title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -36,7 +36,7 @@ Repeating this simple practice continuously and regularly build the mindful 'mus
 
 So is there a catch? Well yes...there is. The technique is simple. But that doesn't mean it's easy. 
 
-The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best...and for a minimum of 30 minutes. Yes it's true you can boost your practice bringing Mindful awareness into every day activities such as washing the dishes and brushing your teeth, but the core of your practice is the Mindful 'work in'. 
+The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best...and for a minimum of 30 minutes. Yes it's true you can boost your practice bringing Mindful awareness into every day activities such as washing the dishes and brushing your teeth, but the core of your practice is the Mindful 'work in'.
 
 The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful practice. 
 
