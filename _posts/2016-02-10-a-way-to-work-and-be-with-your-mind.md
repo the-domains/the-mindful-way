@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T21:18:46.246Z'
-dateModified: '2016-02-12T01:24:22.891Z'
+datePublished: '2016-02-15T12:36:14.980Z'
+dateModified: '2016-02-15T12:36:05.954Z'
 title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -26,26 +26,38 @@ _type: WebPage
 
 Mindfulness is a mind training...
 
-Training the mind involves regular practice - working with intention and attention. 
+Training the mind involves regular practice and working with our awareness, attention and intention. 
 
-It's like having agreed to be the 'driver' of your mind (intention) you  step into the driver seat and with your hands on the wheel you steer and direct the focus of your attention.  
+It's like having agreed to be the 'driver' of your mind (intention) you  step into the driver seat take the wheel and steer and direct your attention.
 
-The untrained mind, like an untrained horse, goes where it will. With you in the driver seat and a gentle careful touch, whenever attention wanders simply return to your point of focus. 
+The untrained mind, like an untrained horse, goes where it will. 
 
-Repeating this simple practice continuously and regularly build the mindful 'muscle' and the capacity to sustain and to 'be with' arising process. That is the essence of Mindfulness. A simple practice which delivers subtle yet profound results. 
+With you in the driver seat and a gentle careful touch, whenever you notice attention has wandered, you simply return to the point of focus. 
 
-So is there a catch? Well yes...there is. The technique is simple. But that doesn't mean it's easy. 
+Repeating this simple practice continuously and regularly builds the mindful 'muscle'.
 
-The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best...and for a minimum of 30 minutes. Yes it's true you can boost your practice bringing Mindful awareness into every day activities such as washing the dishes and brushing your teeth, but the core of your practice is the Mindful 'work in'.
+It builds the capacity to sustain and to 'be with' thoughts, feelings, and emotions and all than arises within. 
 
-The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful practice. 
+That is the essence of Mindfulness. A simple practice which delivers subtle yet profound results. 
 
-Finding a quiet space to be...and retreating from the world outside you, turn your attention inwards to the world inside you ...to your inner processes. 
+So is there a catch? Well yes...there is. The approach is simple. But that doesn't mean it's easy. 
 
-Watch, notice and acknowledge... and with a spacious open quality of looking, simply be receptive to the ebb and flow of your inner world. 
+The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best...and for a minimum of 30 minutes. 
 
-Marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses. And your intention? 
+Practice also includes being mindfulness to daily activities such as washing the dishes and brushing your teeth, but the core of your practice is the Mindful 'work in'.
 
-To do absolutely nothing at all. Not trying to be or to go or to get or to do anything. Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
+The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful sit. 
+
+Finding a quiet space to be...and retreating from your outer environment, turn your attention inwards to the world inside you ...and notice what is here. 
+
+Look with curiosity, notice and acknowledge... and with a spacious open attitude, be receptive to the ebb and flow of your inner world. 
+
+Marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses. 
+
+And your intention? 
+
+Your intention is to do absolutely nothing at all. Neither to be or to go or to get or to do anything. 
+
+Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
 
 Don't interfere - do nothing.  Do nothing. Simply see and be.
