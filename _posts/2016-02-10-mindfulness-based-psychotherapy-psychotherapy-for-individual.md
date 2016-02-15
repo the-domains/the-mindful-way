@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T12:18:19.696Z'
-dateModified: '2016-02-15T12:18:17.177Z'
+datePublished: '2016-02-15T12:39:13.380Z'
+dateModified: '2016-02-15T12:39:10.821Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -43,4 +43,6 @@ These banished parts are known as the shadow regions of being because we never s
 
 These are the unlived parts of our being that seek recognition and complete expression.
 
-Mindfulness-based psychotherapy brings light to these shadow aspects of self. Once seen for what they are, and integrated with our experience, we can appreciate a fuller more embodied and whole sense of self.
+Mindfulness-based psychotherapy brings light to these shadow aspects of self. 
+
+Once they are seen and integrated with our experience, we can appreciate a fuller more embodied and whole sense of self.
