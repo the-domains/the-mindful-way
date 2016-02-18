@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:15:05.111Z'
-dateModified: '2016-02-18T21:14:32.062Z'
+datePublished: '2016-02-18T21:16:04.735Z'
+dateModified: '2016-02-18T21:15:05.978Z'
 title: work with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -60,4 +60,6 @@ Your intention is to do absolutely nothing at all. Neither to be or to go or to 
 
 Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
 
-Don't interfere - do nothing.  Do nothing. Simply see and be.
+Don't interfere - do nothing.  
+
+Do nothing ... simply see and be.
