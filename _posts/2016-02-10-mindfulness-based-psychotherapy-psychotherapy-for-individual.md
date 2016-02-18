@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T20:47:47.226Z'
-dateModified: '2016-02-18T20:47:35.961Z'
+datePublished: '2016-02-18T21:00:37.291Z'
+dateModified: '2016-02-18T20:59:34.246Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -44,3 +44,7 @@ These suppressed aspects of our being are known as 'the shadow' regions of self 
 Mindfulness-based psychotherapy brings light to these shadow aspects of self.
 
 Once these unlived aspects are seen, acknowledged and integrated, we can appreciate a fuller more embodied and whole sense of self.
+
+Patricia Price is a Mindfulness-based psychotherapist, trained at the Karuna Institute. 
+
+Registered with the UK Council for Psychotherapy she offers appointments in Edinburgh and the Scottish Borders for individuals, couples and groups.
