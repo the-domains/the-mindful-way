@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T12:39:13.380Z'
-dateModified: '2016-02-15T12:39:10.821Z'
+datePublished: '2016-02-18T20:47:31.816Z'
+dateModified: '2016-02-18T20:47:25.520Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -32,17 +32,15 @@ Through mindful and heartful inquiry, this gentle, non-invasive approach support
 
 Step by step the assumptions, beliefs, expectations and underlying motives directing your thoughts, emotions and feelings are revealed.
 
-Difficulties are not seen as  negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation,  embodiment and as areas for growth.
+Difficulties are not seen as  negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation, embodiment and areas for growth.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6932af9b-864f-438a-b5d3-6e5e60d7a5bd.JPG)
 
-In fact, these painful edges of our experience conceal 'gold' - this gold is our yet to be realised potential. 
+In fact, these painful edges of our experience conceal what Jung called the 'gold' - the gold is our yet-to-be-realised potential. 
 
-Denying, avoiding, and resisting what we find difficult banishes parts of our self  to the far corners of our being. 
+Denying, avoiding, and resisting what we find difficult means these parts of our self  are banished to the far corners of our being. 
 
-These banished parts are known as the shadow regions of being because we never shine the light of attention there. 
+These suppressed aspects of our being are known as 'the shadow' regions of self because the light of our attention never shines here. 
 
-These are the unlived parts of our being that seek recognition and complete expression.
+Mindfulness-based psychotherapy brings light to these shadow aspects of self.
 
-Mindfulness-based psychotherapy brings light to these shadow aspects of self. 
-
-Once they are seen and integrated with our experience, we can appreciate a fuller more embodied and whole sense of self.
+Once these unlived aspects are seen, acknowledged and integrated, we can appreciate a fuller more embodied and whole sense of self.
