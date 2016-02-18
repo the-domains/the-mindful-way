@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T12:36:14.980Z'
-dateModified: '2016-02-15T12:36:05.954Z'
+datePublished: '2016-02-18T21:07:48.584Z'
+dateModified: '2016-02-18T21:07:41.646Z'
 title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -24,9 +24,9 @@ _type: WebPage
 ---
 # working with your mind
 
-Mindfulness is a mind training...
+Mindfulness is a mind training...more specifically it is attentional training
 
-Training the mind involves regular practice and working with our awareness, attention and intention. 
+The Mindful Way involves regular practice and working with awareness, attention and intention. 
 
 It's like having agreed to be the 'driver' of your mind (intention) you  step into the driver seat take the wheel and steer and direct your attention.
 
