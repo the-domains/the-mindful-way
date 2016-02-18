@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T19:11:17.133Z'
-dateModified: '2016-02-18T19:11:06.481Z'
+datePublished: '2016-02-18T21:05:32.917Z'
+dateModified: '2016-02-18T21:05:22.629Z'
 title: mindfulness deepening retreats
 author: []
+sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
-published: true
 url: mindfulness-deepening-retreats/index.html
 _type: WebPage
 
@@ -28,7 +28,7 @@ _type: WebPage
 27- 31 August \*places available
 
 Vee Freir and Patricia Price are delighted to be offering
-this retreat again on the tranquil and beautiful [Holy Isle][0]. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43175436-f8a0-4e7b-8d3e-14781312993c.JPG)
+this retreat again on the tranquil and beautiful [Holy Isle][0]. 
 
 The retreat is for anyone who has done an 8-week MBCT/MBSR course and wishes to
 deepen their personal experience and understanding of Mindfulness practice. 
@@ -45,7 +45,7 @@ Course Leaders, Vee Freir and Patricia Price will be on hand to give advice, ans
 questions and offer personal interviews. 
 
 Please note: numbers are limited to 10 participants, so the
-course fee of £220 will be required as a deposit to secure a place. 
+course fee of £220 will be required as a deposit to secure a place. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3186da62-e80f-4785-b607-979f5e690a59.JPG)
 
 See feedback from our previous retreats at the Mindfulness Consultancy [website ][1]
 
@@ -60,9 +60,8 @@ two sharing or £460 for single occupancy.
 
 If you wish to discuss any aspect of this retreat please do not hesitate to be in touch. 
 
-bookings: [email Vee][2]  
-phone  01573 410340  
-[The Mindful Consultancy][3]
+to book a place or for more information [email Vee][2] phone  01573 410340  
+vist [The Mindful Consultancy][3] website
 
 [0]: https://en.wikipedia.org/wiki/Holy_Isle,_Firth_of_Clyde
 [1]: http://www.themindfulconsultancy.co.uk/
