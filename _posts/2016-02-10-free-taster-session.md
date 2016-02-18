@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T18:44:45.341Z'
-dateModified: '2016-02-18T18:44:40.911Z'
+datePublished: '2016-02-18T21:06:26.655Z'
+dateModified: '2016-02-18T21:06:11.563Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -58,6 +58,7 @@ practice comes about through sharing, questions and group dialogue.
 
 As well as eight weekly evening sessions, a full day of practice
 is offered in a rural setting.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7be8a0f2-c591-430f-b22a-ac706009f670.jpg)
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
