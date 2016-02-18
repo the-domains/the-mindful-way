@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:00:37.291Z'
-dateModified: '2016-02-18T20:59:34.246Z'
+datePublished: '2016-02-18T21:01:01.456Z'
+dateModified: '2016-02-18T21:00:38.991Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -48,3 +48,7 @@ Once these unlived aspects are seen, acknowledged and integrated, we can appreci
 Patricia Price is a Mindfulness-based psychotherapist, trained at the Karuna Institute. 
 
 Registered with the UK Council for Psychotherapy she offers appointments in Edinburgh and the Scottish Borders for individuals, couples and groups.
+
+[Enquiries & Appointments][0]
+
+[0]: mail@mindfulness-borders.net
