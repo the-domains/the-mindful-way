@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:14:32.711Z'
-dateModified: '2016-02-20T16:14:07.293Z'
+datePublished: '2016-02-20T16:26:16.771Z'
+dateModified: '2016-02-20T16:25:38.716Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -36,17 +36,12 @@ weekly classes 7.00 -9.30pm
 facilitator - Patricia Price  
 [email Patricia][1] for dates and details
 
+**about the 8-week course**
+
 Centred on the three key themes of mindfulness; Intention,
-Attention and Attitude this 8-week course provides a thorough grounding in the
-practice of mindfulness.
+Attention and Attitude this in an experiential course with the emphasis on practice.
 
-Learning how to apply these principles ensures you gain the optimum benefits from your practice.
-
-This in an experiential course which focuses on 
-the three core Mindfulness practices that support the integration of mind and body awareness
-
-These include; the formal sitting practice, the body scan, and
-mindful movement.
+You will learn the key principles of Mindfulness and how to apply these in the three core Mindfulness practices.
 
 A daily mindfulness practice is encouraged from the outset
 and suggestions for home practice are given at each weekly class.
@@ -55,6 +50,8 @@ Support to establish and maintain the motivation for daily
 practice comes about through sharing, questions and group dialogue.
 
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
+
+Please contact the [course facilitator ][1]for further information about these courses.
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
