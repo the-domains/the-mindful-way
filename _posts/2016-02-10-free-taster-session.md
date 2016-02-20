@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:36:11.964Z'
-dateModified: '2016-02-20T16:35:31.248Z'
+datePublished: '2016-02-20T16:49:17.332Z'
+dateModified: '2016-02-20T16:48:56.560Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -52,7 +52,15 @@ practice comes about through sharing, questions and group dialogue.
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
 
 Please contact the [course facilitator ][1]for further information.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f67136-b7c1-4e5e-bf81-8fcc0d367699.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8eae509-0031-46d0-b14c-eaa399410d41.jpg)
+
+Patricia Price completed the MA in Mindfulness-based Psychotherapy with the Karuna Institute in 2000\. Registered with the UK Council for Psychotherapy, she practices in Edinburgh and the Scottish Borders.
+
+She has a Post Graduate Diploma in Mindfulness Studies with the University of Aberdeen and continues her academic studies on the MSc programme. 
+
+She has attended teacher development courses with Mindfulness Scotland, the Mindfulness Association and Bangor University, and continues teacher training with Bangor.
+
+Her work in the field of Mindfulness is supported by attendance at many retreatsice of Mindfulness meditation. 
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
