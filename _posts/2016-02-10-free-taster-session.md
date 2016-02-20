@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:25:39.833Z'
-dateModified: '2016-02-20T17:25:14.600Z'
+datePublished: '2016-02-20T17:26:53.639Z'
+dateModified: '2016-02-20T17:26:24.091Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -59,7 +59,7 @@ Following a PG Diploma in Mindfulness Studies, University of Aberdeen, she conti
 
 Having attended teaching skills courses with Mindfulness Scotland and the Mindfulness Association, Patricia she now attends teacher training with Bangor University.
 
-Her work in the field of Mindfulness is supported by attendance at many retreatsice of Mindfulness meditation. 
+Her work in the field of Mindfulness is supported by attendance at many retreats andice of Mindfulness meditation. 
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
