@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T15:53:12.998Z'
-dateModified: '2016-02-20T15:52:52.111Z'
+datePublished: '2016-02-20T17:56:40.035Z'
+dateModified: '2016-02-20T17:56:28.892Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -22,8 +22,6 @@ url: a-way-to-work-and-be-with-your-mind/index.html
 _type: WebPage
 
 ---
-**about mindfulness**
-
 Mindfulness is a mind training...more specifically it is attentional training
 
 The Mindful Way involves regular practice and working with awareness, attention and intention. 
