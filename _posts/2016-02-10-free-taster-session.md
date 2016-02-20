@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:18:09.175Z'
-dateModified: '2016-02-20T17:18:08.733Z'
+datePublished: '2016-02-20T17:17:29.101Z'
+dateModified: '2016-02-20T17:17:08.375Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -52,6 +52,7 @@ practice comes about through sharing, questions and group dialogue.
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
 
 Please contact the [course facilitator ][1]for further information.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50b9fb71-4c47-4bc3-a27a-28100dc94208.jpg)
 
 **Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][2] in 2000\. Registered with the [UK Council for Psychotherapy][3], she practices in Edinburgh and the Scottish Borders.
 
