@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:16:04.735Z'
-dateModified: '2016-02-18T21:15:05.978Z'
-title: work with your mind
+datePublished: '2016-02-20T15:51:12.876Z'
+dateModified: '2016-02-20T15:50:25.813Z'
+title: working with your mind
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
 published: true
@@ -22,7 +22,7 @@ url: a-way-to-work-and-be-with-your-mind/index.html
 _type: WebPage
 
 ---
-# work with your mind
+# working with your mind
 
 Mindfulness is a mind training...more specifically it is attentional training
 
