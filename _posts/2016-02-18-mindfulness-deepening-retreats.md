@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:05:32.917Z'
-dateModified: '2016-02-18T21:05:22.629Z'
-title: mindfulness deepening retreats
+datePublished: '2016-02-20T15:50:48.709Z'
+dateModified: '2016-02-20T15:49:33.461Z'
+title: retreats
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
 published: true
