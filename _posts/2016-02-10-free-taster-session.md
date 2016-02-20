@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:03:19.011Z'
-dateModified: '2016-02-20T16:02:47.889Z'
+datePublished: '2016-02-20T16:05:00.451Z'
+dateModified: '2016-02-20T16:03:21.832Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
