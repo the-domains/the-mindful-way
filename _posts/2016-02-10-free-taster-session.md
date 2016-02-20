@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:26:53.639Z'
-dateModified: '2016-02-20T17:26:24.091Z'
+datePublished: '2016-02-20T17:33:27.116Z'
+dateModified: '2016-02-20T17:32:43.165Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -50,16 +50,17 @@ Support to establish and maintain the motivation for daily
 practice comes about through sharing, questions and group dialogue.
 
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f40314-e3a7-4940-a69f-448e1f706770.jpg)
 
 Please contact the [course facilitator ][1]for further information.
 
 **Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][2] in 2000\. Registered with the [UK Council for Psychotherapy][3], she practices in Edinburgh and the Scottish Borders.
 
-Following a PG Diploma in Mindfulness Studies, University of Aberdeen, she continues academic study on the MSc programme. 
+Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. 
 
-Having attended teaching skills courses with Mindfulness Scotland and the Mindfulness Association, Patricia she now attends teacher training with Bangor University.
+Having completed teaching skills courses with Mindfulness Scotland and the Mindfulness Association, Patricia now attends teacher training with Bangor University.
 
-Her work in the field of Mindfulness is supported by attendance at many retreats andice of Mindfulness meditation. 
+Her work in the field of Mindfulness is supported by participation in many retreats over the years and a lifelong interest and practice of Mindfulness meditation. 
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
