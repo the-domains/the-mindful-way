@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:33:27.116Z'
-dateModified: '2016-02-20T17:32:43.165Z'
+datePublished: '2016-02-20T17:34:50.361Z'
+dateModified: '2016-02-20T17:34:41.683Z'
 title: 'events & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -50,11 +50,11 @@ Support to establish and maintain the motivation for daily
 practice comes about through sharing, questions and group dialogue.
 
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
+
+Please contact the [course facilitator][2] for further information.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f40314-e3a7-4940-a69f-448e1f706770.jpg)
 
-Please contact the [course facilitator ][1]for further information.
-
-**Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][2] in 2000\. Registered with the [UK Council for Psychotherapy][3], she practices in Edinburgh and the Scottish Borders.
+**Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][3] in 2000\. Registered with the [UK Council for Psychotherapy][4], she practices in Edinburgh and the Scottish Borders.
 
 Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. 
 
@@ -64,5 +64,6 @@ Her work in the field of Mindfulness is supported by participation in many retre
 
 [0]: http://www.borderscarevoice.org.uk/training-bcln/
 [1]: mail@mindfulness-borders.net
-[2]: http://thekaruna-institute.co.uk/
-[3]: http://www.ukcp.org/
+[2]: https://app.thegrid.io/posts/0e0a02b7-d1ec-426b-8b24-73fa385e3a78/mail@mindfulness-borders.net
+[3]: http://thekaruna-institute.co.uk/
+[4]: http://www.ukcp.org/
