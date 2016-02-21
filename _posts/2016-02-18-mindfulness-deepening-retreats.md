@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T15:52:03.420Z'
-dateModified: '2016-02-20T15:51:41.431Z'
+datePublished: '2016-02-21T01:57:48.419Z'
+dateModified: '2016-02-21T01:57:08.216Z'
 title: retreats
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
@@ -28,7 +28,8 @@ _type: WebPage
 27- 31 August \*places available
 
 Vee Freir and Patricia Price are delighted to be offering
-this retreat again on the tranquil and beautiful [Holy Isle][0]. 
+this retreat again on the tranquil and beautiful [Holy Isle][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ab00ce3-bc7c-44f1-bc3d-9a8b8c56e3f4.JPG)
 
 The retreat is for anyone who has done an 8-week MBCT/MBSR course and wishes to
 deepen their personal experience and understanding of Mindfulness practice. 
