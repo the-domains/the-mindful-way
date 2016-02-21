@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T01:57:48.419Z'
-dateModified: '2016-02-21T01:57:08.216Z'
+datePublished: '2016-02-21T01:59:00.416Z'
+dateModified: '2016-02-21T01:58:59.500Z'
 title: retreats
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
@@ -46,7 +46,7 @@ Course Leaders, Vee Freir and Patricia Price will be on hand to give advice, ans
 questions and offer personal interviews. 
 
 Please note: numbers are limited to 10 participants, so the
-course fee of £220 will be required as a deposit to secure a place. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3186da62-e80f-4785-b607-979f5e690a59.JPG)
+course fee of £220 will be required as a deposit to secure a place. 
 
 See feedback from our previous retreats at the Mindfulness Consultancy [website ][1]
 
