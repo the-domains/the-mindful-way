@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:56:40.035Z'
-dateModified: '2016-02-20T17:56:28.892Z'
+datePublished: '2016-02-21T01:59:16.242Z'
+dateModified: '2016-02-21T01:52:25.279Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -48,7 +48,7 @@ The Mindful 'work in' is time out of your continuous day to day doings and 'time
 
 Finding a quiet space to be...and retreating from your outer environment, turn your attention inwards to the world inside you ...and notice what is here. 
 
-Look with curiosity, notice and acknowledge... and with a spacious open attitude, be receptive to the ebb and flow of your inner world. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7726e4c-2ea8-4b19-8b5f-5494161d6dd9.jpg)
+Look with curiosity, notice and acknowledge... and with a spacious open attitude, be receptive to the ebb and flow of your inner world. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
 Marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses. 
 
