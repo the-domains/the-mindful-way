@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T01:59:00.416Z'
-dateModified: '2016-02-21T01:58:59.500Z'
+datePublished: '2016-02-21T15:13:52.379Z'
+dateModified: '2016-02-21T15:13:43.863Z'
 title: retreats
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
@@ -48,11 +48,10 @@ questions and offer personal interviews.
 Please note: numbers are limited to 10 participants, so the
 course fee of £220 will be required as a deposit to secure a place. 
 
-See feedback from our previous retreats at the Mindfulness Consultancy [website ][1]
+See feedback from our previous retreats at [The Mindful Consultancy][1]
 
 Cost: £196 Single Room, £148 Twin each, £116 Dorm. Course
-fee £220
-
+fee £220  
 All-inclusive rate: £416 single, £368 twin each, £336
 dormitory. 
 
@@ -61,10 +60,13 @@ two sharing or £460 for single occupancy.
 
 If you wish to discuss any aspect of this retreat please do not hesitate to be in touch. 
 
-to book a place or for more information [email Vee][2] phone  01573 410340  
-vist [The Mindful Consultancy][3] website
+to book a place on the retreat or for more information   
+[email Vee][2] or phone  01573 410340
+
+to book accommodation for the retreat email [reception@holyisle.org][3]  
+or phone 1770 601100
 
 [0]: https://en.wikipedia.org/wiki/Holy_Isle,_Firth_of_Clyde
 [1]: http://www.themindfulconsultancy.co.uk/
 [2]: v.freir@gmail.com
-[3]: www.themindfulconsultancy.co.uk
+[3]: reception@holyisle.org
