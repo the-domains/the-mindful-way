@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T21:32:44.492Z'
-dateModified: '2016-02-23T21:30:45.608Z'
+datePublished: '2016-02-23T21:34:39.601Z'
+dateModified: '2016-02-23T21:34:10.345Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -60,4 +60,4 @@ Simply be with whatever comes into your awareness, look and notice the stream an
 
 Don't interfere - do nothing.  
 
-Do nothing ... simply see and be.
+Back to the home page
