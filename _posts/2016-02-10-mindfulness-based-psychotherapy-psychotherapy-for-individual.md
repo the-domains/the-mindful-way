@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T22:54:31.080Z'
-dateModified: '2016-02-20T22:54:26.098Z'
+datePublished: '2016-02-23T21:25:52.888Z'
+dateModified: '2016-02-23T21:24:52.727Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -41,6 +41,5 @@ Denying, avoiding, and resisting what we find difficult means parts of our self 
 
 The intention of Mindfulness-based psychotherapy is to bring light to these shadow aspects of self. Once the unlived parts are seen, acknowledged and integrated, we can appreciate a fuller, more embodied and whole sense of self.
 
-[**Enquiries & Appointments**][0]
-
-[0]: mail@mindfulness-borders.net
+**Enquiries & Appointments  
+mail@mindfulness-borders.net**
