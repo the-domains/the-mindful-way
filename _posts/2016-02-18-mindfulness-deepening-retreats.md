@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T15:13:52.379Z'
-dateModified: '2016-02-21T15:13:43.863Z'
+datePublished: '2016-02-23T21:23:33.938Z'
+dateModified: '2016-02-23T21:23:25.597Z'
 title: retreats
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
@@ -61,12 +61,11 @@ two sharing or £460 for single occupancy.
 If you wish to discuss any aspect of this retreat please do not hesitate to be in touch. 
 
 to book a place on the retreat or for more information   
-[email Vee][2] or phone  01573 410340
+email mail@mindfulness-borders.net  or phone Vee Freir on  01573 410340
 
-to book accommodation for the retreat email [reception@holyisle.org][3]  
+to book accommodation for the retreat email [reception@holyisle.org][2]  
 or phone 1770 601100
 
 [0]: https://en.wikipedia.org/wiki/Holy_Isle,_Firth_of_Clyde
 [1]: http://www.themindfulconsultancy.co.uk/
-[2]: v.freir@gmail.com
-[3]: reception@holyisle.org
+[2]: reception@holyisle.org
