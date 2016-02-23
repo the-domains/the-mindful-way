@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T23:22:07.785Z'
-dateModified: '2016-02-20T23:21:59.373Z'
+datePublished: '2016-02-23T21:29:30.207Z'
+dateModified: '2016-02-23T21:29:11.102Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -24,17 +24,16 @@ _type: WebPage
 ---
 Mindfulness offers the potential to transform our minds, bodies and hearts in a way that nurtures growth, health, emotional intelligence, creativity, innovation and the capacity to respond to life with an open mind and a wise compassionate heart."    _Shauna Shapiro_
 
-**Introduction to Mindfulness**  
-Wednesday 2 March 2016 9.30am to 12.30pm  
+**I****ntroduction to Mindfulness**Wednesday 2 March 2016 9.30am to 12.30pm  
 Ormiston Lounge, High Street  
-Melrose TD6 2PN  
-Book via  [Border Care Learning Network][0]
+Melrose TD6 2PN
 
 **The 8-week course **starts Wednesday 16 March   
 the Meeting House, Abbey Row, Kelso TD5 7JF  
 weekly classes 7.00 -9.30pm  
-facilitator - Patricia Price  
-[email Patricia][1] for dates and details
+facilitator - Patricia Price
+
+**Enquiries** - mail@mindfulness-borders.net 
 
 **about the 8-week course**
 
@@ -51,10 +50,10 @@ practice comes about through sharing, questions and group dialogue.
 
 As well as eight weekly evening sessions, the course includes a full day of practice in a rural setting,  course workbook (pdf), audio files and hand-outs.
 
-Please contact the [course facilitator][2] for further information.
+Please contact the [course facilitator][0] for further information.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f40314-e3a7-4940-a69f-448e1f706770.jpg)
 
-**Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][3] in 2000\. Registered with the [UK Council for Psychotherapy][4], she practices in Edinburgh and the Scottish Borders.
+**Patricia Price** completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][1] in 2000\. Registered with the [UK Council for Psychotherapy][2], she practices in Edinburgh and the Scottish Borders.
 
 Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. 
 
@@ -62,8 +61,6 @@ Having completed teaching skills courses with Mindfulness Scotland and the Mindf
 
 Her work in the field of Mindfulness is supported by participation in many retreats over the years and a lifelong interest and practice of Mindfulness meditation. 
 
-[0]: http://www.borderscarevoice.org.uk/training-bcln/
-[1]: mail@mindfulness-borders.net
-[2]: https://app.thegrid.io/posts/0e0a02b7-d1ec-426b-8b24-73fa385e3a78/mail@mindfulness-borders.net
-[3]: http://thekaruna-institute.co.uk/
-[4]: http://www.ukcp.org/
+[0]: https://app.thegrid.io/posts/0e0a02b7-d1ec-426b-8b24-73fa385e3a78/mail@mindfulness-borders.net
+[1]: http://thekaruna-institute.co.uk/
+[2]: http://www.ukcp.org/
