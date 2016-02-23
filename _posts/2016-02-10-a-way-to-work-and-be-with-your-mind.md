@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T21:34:55.569Z'
-dateModified: '2016-02-23T21:34:47.041Z'
+datePublished: '2016-02-23T21:36:24.709Z'
+dateModified: '2016-02-23T21:36:19.797Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -58,6 +58,4 @@ Your intention is to do absolutely nothing at all. Neither to be or to go or to 
 
 Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
 
-Don't interfere - do nothing.  
-
-Back to the home page
+Don't interfere - do nothing.
