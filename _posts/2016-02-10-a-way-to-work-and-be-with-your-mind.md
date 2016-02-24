@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T18:39:58.243Z'
-dateModified: '2016-02-24T18:39:56.888Z'
+datePublished: '2016-02-24T18:48:34.956Z'
+dateModified: '2016-02-24T18:48:07.486Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -41,7 +41,7 @@ So is there a catch? Well yes...there is. The approach is simple. But that doesn
 
 The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best. 
 
-Practice also extended to daily activities such as washing the dishes or walking the dog, but the core of your practice is the Mindful 'work in'.
+Mindfulness practice can also be extended to daily activities such as washing the dishes or walking the dog, but the core of your practice is the Mindful 'work in'.
 
 The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful sit. 
 
@@ -55,6 +55,10 @@ And your intention?
 
 Your intention is to do absolutely nothing at all. Neither to be or to go or to get or to do anything. 
 
-Simply be with whatever comes into your awareness, look and notice the stream and flow of inner processes as they appear and disappear. 
+Your intention is always to be with whatever comes into your awareness, to look and notice the stream and flow of inner processes as they appear and disappear. 
 
-Don't interfere - do nothing.
+Don't interfere - and don't try to change it! Do nothing. 
+
+Simply see and allow everything to be what it is. 
+
+Want to join a course?
