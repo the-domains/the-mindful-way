@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T21:56:19.203Z'
-dateModified: '2016-02-24T21:55:09.221Z'
+datePublished: '2016-02-24T21:57:45.775Z'
+dateModified: '2016-02-24T21:57:40.770Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
@@ -24,4 +24,6 @@ _type: WebPage
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3b4c2c9153d6f7ea97e8d51ddc4970a2a92f888.jpg)
 
-More information
+Visit the [**heart of silence website **][0]to book a place on the conference and for more information.
+
+[0]: www.theheartofsilence.co.uk
