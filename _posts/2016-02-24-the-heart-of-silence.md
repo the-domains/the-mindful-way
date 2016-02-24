@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T18:49:08.852Z'
-dateModified: '2016-02-24T17:51:02.370Z'
+datePublished: '2016-02-24T21:56:19.203Z'
+dateModified: '2016-02-24T21:55:09.221Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
@@ -22,6 +22,6 @@ url: the-heart-of-silence/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cb6364a-dd67-4f24-8417-7487cfd9b022.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3b4c2c9153d6f7ea97e8d51ddc4970a2a92f888.jpg)
 
 More information
