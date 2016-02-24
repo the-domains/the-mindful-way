@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T21:36:24.709Z'
-dateModified: '2016-02-23T21:36:19.797Z'
+datePublished: '2016-02-24T18:39:58.243Z'
+dateModified: '2016-02-24T18:39:56.888Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -22,35 +22,34 @@ url: a-way-to-work-and-be-with-your-mind/index.html
 _type: WebPage
 
 ---
-Mindfulness is a mind training...more specifically it is attentional training
-
-The Mindful Way involves regular practice and working with awareness, attention and intention. 
-
-It's like having agreed to be the 'driver' of your mind (intention) you  step into the driver seat take the wheel and steer and direct your attention.
+Mindfulness is a mind training which involves working with awareness, attention and intention. 
 
 The untrained mind, like an untrained horse, goes where it will. 
 
-With you in the driver seat and a gentle careful touch, whenever you notice attention has wandered, you simply return to the point of focus. 
+The Mindful Way means that you take the reins ... you become the guide and director of your mind.
 
-Repeating this simple practice continuously and regularly builds the mindful 'muscle'.
+With a lightness of touch, patience and practice, the mindful way works in harmony with the wandering mind.
 
-It builds the capacity to sustain and to 'be with' thoughts, feelings, and emotions and all than arises within. 
+Engaging with 'time' in a new way, Mindfulness practice opens a window to the subtle ...the nuance of each moment, to the detail of your life, to this 'being' called I.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
-That is the essence of Mindfulness. A simple practice which delivers subtle yet profound results. 
+Whereas the  unseen motives that fuel our existence and actions compel us in unintended directions, with unintended consequences.
+
+Mindfulness cultivates awareness. An awareness attuned to the here and now with a flexible lens on life. It is a simple practice which delivers subtle yet profound results. 
 
 So is there a catch? Well yes...there is. The approach is simple. But that doesn't mean it's easy. 
 
-The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best...and for a minimum of 30 minutes. 
+The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best. 
 
-Practice also includes being mindfulness to daily activities such as washing the dishes and brushing your teeth, but the core of your practice is the Mindful 'work in'.
+Practice also extended to daily activities such as washing the dishes or walking the dog, but the core of your practice is the Mindful 'work in'.
 
 The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful sit. 
 
-Finding a quiet space to be...and retreating from your outer environment, turn your attention inwards to the world inside you ...and notice what is here. 
+One of the three core practices in Mindfulness, the daily sit is a retreat from your outer environment to the world inside you ...to simply notice what is here and how you are. 
 
-Look with curiosity, notice and acknowledge... and with a spacious open attitude, be receptive to the ebb and flow of your inner world. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
+And to acknowledge all that is .. . with a spacious open attitude, simply to be receptive to the ebb and flow of your inner world. 
 
-Marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses. 
+And marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses ...the welcome and not so welcome.
 
 And your intention? 
 
