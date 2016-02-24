@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T22:15:28.370Z'
-dateModified: '2016-02-24T22:15:19.584Z'
+datePublished: '2016-02-24T22:16:31.547Z'
+dateModified: '2016-02-24T22:15:59.597Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
