@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T18:48:49.642Z'
-dateModified: '2016-02-24T18:48:39.809Z'
+datePublished: '2016-02-24T21:53:01.345Z'
+dateModified: '2016-02-24T21:52:15.297Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -33,29 +33,31 @@ With a lightness of touch, patience and practice, the mindful way works in harmo
 Engaging with 'time' in a new way, Mindfulness practice opens a window to the subtle ...the nuance of each moment, to the detail of your life, to this 'being' called I.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
-Whereas the  unseen motives that fuel our existence and actions compel us in unintended directions, with unintended consequences.
+The unseen motives that fuel our existence and actions compel us in unintended directions, with unintended consequences.
 
-Mindfulness cultivates awareness. An awareness attuned to the here and now with a flexible lens on life. It is a simple practice which delivers subtle yet profound results. 
+Mindfulness is the antidote to ignorance ...because it cultivates awareness. It tunes up our capacity for awareness of the here and now. 
 
-So is there a catch? Well yes...there is. The approach is simple. But that doesn't mean it's easy. 
+It literally lays down new pathways, creating more possibility and choice. With a growing sense of spaciousness and conscious awareness ...we respond to life events rather than react. 
 
-The benefits of Mindfulness practice only come with regular and consistent practice. Every day is best. 
+Mindfulness is a simple practice which delivers subtle yet profound results. So is there a catch? 
 
-Mindfulness practice can also be extended to daily activities such as washing the dishes or walking the dog, but the core of your practice is the Mindful 'work in'.
+Well yes...there is. The approach is simple ...but that doesn't mean it's easy. 
 
-The Mindful 'work in' is time out of your continuous day to day doings and 'time in' for your daily Mindful sit. 
+The benefits of Mindfulness practice will only come with regular and consistent practice. Every day is best. 
 
-One of the three core practices in Mindfulness, the daily sit is a retreat from your outer environment to the world inside you ...to simply notice what is here and how you are. 
+Mindfulness practice may also extend to daily activities such as washing the dishes or walking the dog, but the core of your practice is the Mindful 'work in'.
 
-And to acknowledge all that is .. . with a spacious open attitude, simply to be receptive to the ebb and flow of your inner world. 
+The Mindful 'work in' is time out of  'doing' and 'time in' for just 'being'. This is your daily  sit. 
 
-And marvel at that vibrant inner life  ... to the coming and going of thoughts, feelings, sensations, images and impulses ...the welcome and not so welcome.
+One of the three core practices in Mindfulness, the daily sit is a retreat from your outer environment to the world inside you ...to simply notice what is here now. 
+
+Noticing and acknowledging all that is .. . is the essence of mind training. Witnessing with non-judgemental receptivity  the ebb and flow and of your inner life ...all of it ...including the welcome and not so welcome.
 
 And your intention? 
 
 Your intention is to do absolutely nothing at all. Neither to be or to go or to get or to do anything. 
 
-Your intention is always to be with whatever comes into your awareness, to look and notice the stream and flow of inner processes as they appear and disappear. 
+But simply to be with whatever comes into your awareness, to look and notice the stream and flow of events as they appear and disappear. 
 
 Don't interfere - and don't try to change it! Do nothing. 
 
