@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T21:26:45.941Z'
-dateModified: '2016-02-24T21:26:24.664Z'
+datePublished: '2016-02-24T22:16:24.351Z'
+dateModified: '2016-02-24T22:09:38.760Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
