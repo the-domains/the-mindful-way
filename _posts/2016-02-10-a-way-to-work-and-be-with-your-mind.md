@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T20:12:02.442Z'
-dateModified: '2016-03-02T20:11:44.166Z'
+datePublished: '2016-03-02T20:12:13.853Z'
+dateModified: '2016-03-02T20:12:05.866Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
