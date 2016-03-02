@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T22:23:26.021Z'
-dateModified: '2016-02-24T22:23:20.375Z'
+datePublished: '2016-03-02T19:35:07.057Z'
+dateModified: '2016-03-02T19:34:30.373Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
@@ -22,7 +22,7 @@ url: the-heart-of-silence/index.html
 _type: WebPage
 
 ---
-## A conference and enquiry, exploring the place of Silence in Psychotherapy, Society and our World
+## A conference exploring the place of Silence in Psychotherapy, Society and our World
 
 Our speakers include:    
 **Brian Keenan, Maura Sills, Rebecca Crane Ph.D., Mac Macartney, ****Catherine McGee, Matt Adams Ph.D., Dave Harley, Alastair McNeilage and****Amarantho****.**
