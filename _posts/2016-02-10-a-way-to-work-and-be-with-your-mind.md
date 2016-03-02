@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T20:12:13.853Z'
-dateModified: '2016-03-02T20:12:05.866Z'
+datePublished: '2016-03-02T20:20:06.521Z'
+dateModified: '2016-03-02T20:19:58.036Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -58,4 +58,4 @@ We don't interfere ...we don't try to change anything. We do nothing.
 
 Simply see and allow everything to be what it is. 
 
-Want to join a course?
+Want to join a course?  **mail@mindfulness-borders.net**
