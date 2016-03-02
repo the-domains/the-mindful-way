@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T22:16:43.818Z'
-dateModified: '2016-02-24T22:09:32.530Z'
+datePublished: '2016-03-02T20:16:06.588Z'
+dateModified: '2016-03-02T20:14:57.585Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -24,16 +24,12 @@ _type: WebPage
 ---
 Mindfulness offers the potential to transform our minds, bodies and hearts in a way that nurtures growth, health, emotional intelligence, creativity, innovation and the capacity to respond to life with an open mind and a wise compassionate heart."    _Shauna Shapiro_
 
-**I****ntroduction to Mindfulness**Wednesday 2 March 2016 9.30am to 12.30pm  
-Ormiston Lounge, High Street  
-Melrose TD6 2PN
-
-**The 8-week course **starts Wednesday 16 March   
+**Mindfulness-based Stress Reduction Course**  
+8-week course starts Wednesday 16 March   
 the Meeting House, Abbey Row, Kelso TD5 7JF  
 weekly classes 7.00 -9.30pm  
-facilitator - Patricia Price
-
-**Enquiries** - mail@mindfulness-borders.net 
+facilitator - Patricia Price  
+mail@mindfulness-borders.net 
 
 **about the 8-week course**
 
