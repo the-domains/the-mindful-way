@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the mindful way]]></title>
         <description><![CDATA[the mindful way]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.mindfulness-borders.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:52:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 21:56:50 GMT</lastBuildDate>
+        <atom:link href="http://www.mindfulness-borders.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mindfulness approaches]]></title>
-            <description><![CDATA[<article><h1>mindfulness approaches</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ae78f406a82611efa5501c869c999eb466c306e.jpg"></article>]]></description>
-            <link>undefinedmindfulness-approaches/index.html</link>
+            <description><![CDATA[<article><h1>mindfulness approaches</h1><p>...a way to be with whatever life brings ...a practical way to relate to self, others and life events </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ae78f406a82611efa5501c869c999eb466c306e.jpg"></article>]]></description>
+            <link>http://www.mindfulness-borders.net/mindfulness-approaches/index.html</link>
             <guid isPermaLink="false">5a75b966-86d6-4214-90bf-3d82b6f80f07</guid>
-            <pubDate>Mon, 07 Mar 2016 21:52:21 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 21:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
