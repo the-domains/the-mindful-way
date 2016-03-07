@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:45:45.843Z'
-dateModified: '2016-03-07T22:45:32.393Z'
+datePublished: '2016-03-07T22:45:54.399Z'
+dateModified: '2016-03-07T22:45:46.542Z'
 title: a more skilful way to be
 author: []
 sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: a-more-skilful-way-to-be/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70ad0e7933ca833d5e0495650ff6145da01d307a.jpg)
