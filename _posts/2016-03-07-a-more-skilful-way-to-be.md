@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:44:35.691Z'
-dateModified: '2016-03-07T22:44:30.124Z'
+datePublished: '2016-03-07T22:45:45.843Z'
+dateModified: '2016-03-07T22:45:32.393Z'
 title: a more skilful way to be
 author: []
 sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
@@ -22,7 +22,7 @@ url: a-more-skilful-way-to-be/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2942af8d-92c1-48ce-b49b-9cfc67a0ec2f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70ad0e7933ca833d5e0495650ff6145da01d307a.jpg)
 
 "I caught
 myself rushing and getting anxious about how long the water was taking to run
