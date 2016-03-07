@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:02:52.942Z'
-dateModified: '2016-03-07T22:02:49.359Z'
+datePublished: '2016-03-07T22:23:20.816Z'
+dateModified: '2016-03-07T22:23:07.070Z'
 title: a more skilful way to be
 author: []
 sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
