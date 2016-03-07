@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T20:20:06.521Z'
-dateModified: '2016-03-02T20:19:58.036Z'
+datePublished: '2016-03-07T22:29:54.865Z'
+dateModified: '2016-03-07T22:29:49.619Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -26,11 +26,9 @@ Mindfulness is a mind training which involves working with awareness, attention 
 
 The untrained mind, like an untrained horse, goes where it will. 
 
-The Mindful Way means that you take the reins ... you become the guide and director of your mind.
+With patience and practice, mindfulness cultivates a way of working in harmony with the wandering mind.
 
-With a lightness of touch, patience and practice, the mindful way works in harmony with the wandering mind.
-
-Engaging with 'time' in a new way, Mindfulness practice opens a window to the subtle ...the nuance of each moment, to the detail of your life.
+Mindfulness practice opens a window to the subtle ...the nuance of each moment, to the detail of your life.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
 The unseen motives that fuel our existence and actions compel us in unintended directions, with unintended consequences.
