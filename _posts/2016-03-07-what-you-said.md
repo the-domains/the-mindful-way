@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:22:26.250Z'
-dateModified: '2016-03-07T22:22:11.752Z'
+datePublished: '2016-03-07T22:41:37.395Z'
+dateModified: '2016-03-07T22:41:19.339Z'
 title: what you said
 author: []
 sourcePath: _posts/2016-03-07-what-you-said.md
@@ -22,9 +22,8 @@ url: what-you-said/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82d8ae57-3304-4acf-9dde-e88639027d58.jpg)
-
 "The best and most interesting course I have been on. Thank you!"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7edc1a2-5082-492b-925c-893e21f643b9.jpg)
 
 "I have loved this course -- to my great surprise. It has been
 a revelation - my sleep is returning and I feel much calmer. Long may I continue
