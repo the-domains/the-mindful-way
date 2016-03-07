@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T21:58:01.953Z'
-dateModified: '2016-03-07T21:58:01.577Z'
+datePublished: '2016-03-07T22:22:26.250Z'
+dateModified: '2016-03-07T22:22:11.752Z'
 title: what you said
 author: []
+sourcePath: _posts/2016-03-07-what-you-said.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-what-you-said.md
-published: true
 url: what-you-said/index.html
 _type: Article
 
