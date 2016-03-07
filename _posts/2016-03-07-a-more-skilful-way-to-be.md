@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:02:31.141Z'
-dateModified: '2016-03-07T22:02:01.771Z'
+datePublished: '2016-03-07T22:02:52.942Z'
+dateModified: '2016-03-07T22:02:49.359Z'
 title: a more skilful way to be
 author: []
+sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
-published: true
 url: a-more-skilful-way-to-be/index.html
 _type: Article
 
