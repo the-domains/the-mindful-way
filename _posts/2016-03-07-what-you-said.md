@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"The best and most interesting course I have been on. Thank you!"'
-datePublished: '2016-03-09T09:29:23.840Z'
-dateModified: '2016-03-09T09:29:14.337Z'
+datePublished: '2016-03-09T09:35:02.593Z'
+dateModified: '2016-03-09T09:34:53.011Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-07-what-you-said.md
