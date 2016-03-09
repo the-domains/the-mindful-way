@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T22:39:10.862Z'
-dateModified: '2016-03-07T22:39:00.386Z'
+description: "Mindfulness is a mind training which involves working\_with awareness, attention and intention.\_"
+datePublished: '2016-03-09T09:30:11.978Z'
+dateModified: '2016-03-09T09:30:07.735Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -24,12 +24,11 @@ _type: WebPage
 ---
 Mindfulness is a mind training which involves working with awareness, attention and intention. 
 
-The untrained mind, like an untrained horse takes flight, it goes where it will. 
+The untrained mind, like an untrained horse takes flight, it goes where it will. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
 With patience and practice, mindfulness cultivates a way of working in harmony with the wandering mind.
 
 Mindfulness practice opens a window to the subtle ...the nuance of each moment, to the detail of your life.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
 Mindfulness reveals the unseen motives that compel us in unintended directions, with unintended consequences.
 
