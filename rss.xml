@@ -4,7 +4,7 @@
         <description><![CDATA[the mindful way]]></description>
         <link>http://www.mindfulness-borders.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 09:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 09:37:29 GMT</lastBuildDate>
         <atom:link href="http://www.mindfulness-borders.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mindfulness]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.mindfulness-borders.net/mindfulness-approaches/index.html</link>
             <guid isPermaLink="false">5a75b966-86d6-4214-90bf-3d82b6f80f07</guid>
             <pubDate>Wed, 09 Mar 2016 09:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[what you said]]></title>
-            <description><![CDATA[<article><h1>what you said</h1><p>"The best and most interesting course I have been on. Thank you!"</p></article>]]></description>
-            <link>http://www.mindfulness-borders.net/what-you-said/index.html</link>
-            <guid isPermaLink="false">7c4c1511-ede0-4b9b-a5f4-a431eee0b1b9</guid>
-            <pubDate>Wed, 09 Mar 2016 09:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
