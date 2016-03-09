@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-02T20:20:33.842Z'
-dateModified: '2016-03-02T20:20:20.493Z'
+description: "Mindfulness-based Stress Reduction Course8-week course\_starts Wednesday 16 March\_the Meeting House, Abbey Row, Kelso TD5 7JFweekly classes 7.00 -9.30pmfacilitator - Patricia Pricemail@mindfulness-borders.net\_"
+datePublished: '2016-03-09T09:39:48.068Z'
+dateModified: '2016-03-09T09:39:25.713Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -55,7 +55,7 @@ Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, s
 
 Having completed teaching skills courses with Mindfulness Scotland and the Mindfulness Association, Patricia now attends teacher training with Bangor University.
 
-Her work in the field of Mindfulness is supported by participation in many retreats over the years and a lifelong interest and practice of Mindfulness meditation. 
+Her work in the field of Mindfulness is supported by participation in retreats over many years and a lifelong interest and practice of Mindfulness meditation. 
 
 [0]: http://thekaruna-institute.co.uk/
 [1]: http://www.ukcp.org/
