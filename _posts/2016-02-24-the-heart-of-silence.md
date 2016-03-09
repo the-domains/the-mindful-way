@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-02T19:35:07.057Z'
-dateModified: '2016-03-02T19:34:30.373Z'
+description: "\_Our speakers include: \_Brian Keenan, Maura Sills, Rebecca Crane Ph.D., Mac Macartney,\_Catherine McGee, Matt Adams Ph.D., Dave Harley, Alastair McNeilage andAmarantho."
+datePublished: '2016-03-09T09:36:25.422Z'
+dateModified: '2016-03-09T09:36:19.546Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
@@ -22,11 +22,11 @@ url: the-heart-of-silence/index.html
 _type: WebPage
 
 ---
-## A conference exploring the place of Silence in Psychotherapy, Society and our World
+## A conference exploring the place of Silence in Society, Psychotherapy, and the World
 
-Our speakers include:    
+Speakers  
 **Brian Keenan, Maura Sills, Rebecca Crane Ph.D., Mac Macartney, ****Catherine McGee, Matt Adams Ph.D., Dave Harley, Alastair McNeilage and****Amarantho****.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c70285-d68d-445c-bab2-39a746e18814.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbf4ece8ac0c0a5566167798643a0751ad37a0b9.png)
 
 Despite the weight of increasing stress, depression and fear on a global scale, can the presence of Silence break open our isolation and sense of separateness and offer us a deeper connection to meaning, to ourselves, each other and to the world at large?  
 
