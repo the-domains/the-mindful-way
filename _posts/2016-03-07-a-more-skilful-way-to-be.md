@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "“I caught\nmyself rushing and getting anxious about how long the water was taking to run\nin the bath – then I remembered I could do it differently. I stopped and\nwatched the running water; I watched it flowing from the tap. I’d never seen it\nlike that before. It was such a beautiful experience. Then a thought came to me\n– what else have I been missing?”\_"
-datePublished: '2016-03-09T09:57:48.477Z'
-dateModified: '2016-03-09T09:57:46.103Z'
+datePublished: '2016-03-09T09:58:01.177Z'
+dateModified: '2016-03-09T09:57:56.071Z'
 title: a more skilful way to be
 author: []
 sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
