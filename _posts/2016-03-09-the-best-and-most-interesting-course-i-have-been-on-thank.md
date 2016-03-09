@@ -16,8 +16,8 @@ description: >-
   happy
 
   and elated…I realised it was perfectly OK to be without knowing.”
-datePublished: '2016-03-09T09:57:02.715Z'
-dateModified: '2016-03-09T09:56:07.226Z'
+datePublished: '2016-03-09T09:57:15.918Z'
+dateModified: '2016-03-09T09:57:09.713Z'
 title: being mindful
 author: []
 sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
