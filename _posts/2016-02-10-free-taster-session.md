@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mindfulness-based Stress Reduction Course8-week course\_starts Wednesday 16 March\_the Meeting House, Abbey Row, Kelso TD5 7JFweekly classes 7.00 -9.30pmfacilitator - Patricia Pricemail@mindfulness-borders.net\_"
-datePublished: '2016-03-09T09:39:48.068Z'
-dateModified: '2016-03-09T09:39:25.713Z'
+datePublished: '2016-03-09T10:03:22.318Z'
+dateModified: '2016-03-09T10:02:55.512Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -22,7 +22,13 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-Mindfulness offers the potential to transform our minds, bodies and hearts in a way that nurtures growth, health, emotional intelligence, creativity, innovation and the capacity to respond to life with an open mind and a wise compassionate heart."    _Shauna Shapiro_
+The best and most interesting course I have been on. Thank you!"
+
+"I have loved this course -- to my great surprise. It has been a revelation - my sleep is returning and I feel much calmer. Long may I continue to do this!"
+
+I have done a mindfulness course before, but this course really consolidated and clarified the practice and theory for me. Just fab!
+
+"I really found the whole course so useful, and even in 8 weeks I can notice a difference in myself, how I relate to others, to life situations and to myself. Thank you!"
 
 **Mindfulness-based Stress Reduction Course**  
 8-week course starts Wednesday 16 March   
