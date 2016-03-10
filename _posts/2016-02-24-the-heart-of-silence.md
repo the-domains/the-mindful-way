@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Despite the weight of increasing stress, depression and fear on a global scale, can the presence of Silence break open our isolation and sense of separateness and offer us a deeper connection to meaning, to ourselves, each other and to the world at large?\_\_"
-datePublished: '2016-03-10T13:20:48.312Z'
-dateModified: '2016-03-10T13:20:36.677Z'
+datePublished: '2016-03-10T13:21:50.701Z'
+dateModified: '2016-03-10T13:21:07.577Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
