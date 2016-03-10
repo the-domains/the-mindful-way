@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Mindfulness is a mind training which involves working\_with awareness, attention and intention.\_"
-datePublished: '2016-03-09T09:35:18.350Z'
-dateModified: '2016-03-09T09:34:13.802Z'
+description: "Mindfulness is a mind training which involves \_awareness, attention and intention.\_"
+datePublished: '2016-03-10T13:09:59.220Z'
+dateModified: '2016-03-10T13:09:55.181Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -22,17 +22,17 @@ url: a-way-to-work-and-be-with-your-mind/index.html
 _type: WebPage
 
 ---
-Mindfulness is a mind training which involves working with awareness, attention and intention. 
+Mindfulness is a mind training which involves  awareness, attention and intention. 
 
 The untrained mind, like an untrained horse takes flight, it goes where it will. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
-With patience and practice, mindfulness cultivates a way of working in harmony with the wandering mind.
+With patience and practice, mindfulness cultivates a way of accompanying and being in harmony with the wandering mind.
 
-Mindfulness practice opens a window to the nuance of each moment, to the detail of your life.
+Mindfulness practice opens us to the nuance of each moment, to the detail of  life.
 
-It reveals the unseen motives that compel us in unintended directions, with unintended consequences.
+It reveals the unseen motives that compel us in unintended directions, with unintended consequences. 
 
-Mindfulness develops presence and awareness of the here and now. 
+Mindfulness grows presence ...and receptivity of direct experience , wanted or unwanted.
 
 With a growing sense of spaciousness and conscious awareness ...we respond to life events rather than react. 
 
