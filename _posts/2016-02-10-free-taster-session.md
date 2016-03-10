@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mindfulness-based Stress Reduction Course8-week course\_starts Wednesday 16 March \_(one place remaining)the Meeting House, Abbey Row, Kelso TD5 7JFweekly classes 7.00 -9.30pmfacilitator - Patricia Pricemail@mindfulness-borders.net\_"
-datePublished: '2016-03-10T12:59:02.484Z'
-dateModified: '2016-03-10T12:58:56.708Z'
+datePublished: '2016-03-10T12:58:32.067Z'
+dateModified: '2016-03-10T12:58:27.679Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -22,7 +22,7 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-**What course participants said...**
+What course participants said...
 
 "The best and most interesting course I have been on. Thank you!"
 
