@@ -5,20 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: >-
-  “I took the
-
-  dog for a walk not knowing where I was going…I just walked. I had never just
-
-  wandered out without a plan before…with my anxiety I always needed to know
-
-  where I was going. It was a totally new experience and it was fine…I felt
-  happy
-
-  and elated…I realised it was perfectly OK to be without knowing.”
-datePublished: '2016-03-09T09:57:15.918Z'
-dateModified: '2016-03-09T09:57:09.713Z'
-title: being mindful
+description: "“I took the\ndog for a walk not knowing where I was going…I just walked. I had never just\nwandered out without a plan before…with my anxiety I always needed to know\nwhere I was going. It was a totally new experience and it was fine…I felt happy\nand elated…I realised it was perfectly OK to be without knowing. \_ \_\_a course participant"
+datePublished: '2016-03-10T12:40:40.866Z'
+dateModified: '2016-03-10T12:40:37.501Z'
+title: a skilful way to be
 author: []
 sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
 published: true
@@ -38,4 +28,4 @@ _type: Article
 dog for a walk not knowing where I was going...I just walked. I had never just
 wandered out without a plan before...with my anxiety I always needed to know
 where I was going. It was a totally new experience and it was fine...I felt happy
-and elated...I realised it was perfectly OK to be without knowing."
+and elated...I realised it was perfectly OK to be without knowing.     _a course participant_
