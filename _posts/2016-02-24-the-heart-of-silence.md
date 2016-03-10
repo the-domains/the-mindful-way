@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Despite the weight of increasing stress, depression and fear on a global scale, can the presence of Silence break open our isolation and sense of separateness and offer us a deeper connection to meaning, to ourselves, each other and to the world at large?\_\_"
-datePublished: '2016-03-10T13:21:50.701Z'
-dateModified: '2016-03-10T13:21:07.577Z'
+datePublished: '2016-03-10T13:23:40.848Z'
+dateModified: '2016-03-10T13:23:35.321Z'
 title: the heart of silence
 author: []
 sourcePath: _posts/2016-02-24-the-heart-of-silence.md
@@ -32,4 +32,8 @@ Our speakers and the plenaries will focus on two central questions:
 How can Silence unify us, in the midst of life today?  
 What is the nature and role of Silence in relationship?
 
-There will be a opportunity to experience and embody Silence together.
+There will be a opportunity to experience and embody Silence together
+
+Booking & Information [www.theheartofsilence.co.uk][0]
+
+[0]: http://theheartofsilence.co.uk/
