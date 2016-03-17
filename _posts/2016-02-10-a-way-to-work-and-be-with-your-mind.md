@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mindfulness is a mind training which involves \_awareness, attention and intention.\_"
-datePublished: '2016-03-10T13:09:59.220Z'
-dateModified: '2016-03-10T13:09:55.181Z'
+datePublished: '2016-03-17T01:04:08.544Z'
+dateModified: '2016-03-17T01:04:01.843Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
@@ -26,23 +26,17 @@ Mindfulness is a mind training which involves  awareness, attention and intentio
 
 The untrained mind, like an untrained horse takes flight, it goes where it will. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7daca733a68231fdccd5601d607e6ab58994ce8a.jpg)
 
-With patience and practice, mindfulness cultivates a way of accompanying and being in harmony with the wandering mind.
+With patience and practice, mindfulness cultivates a way of accompanying and being in harmony with the wandering mind. Mindfulness practice opens us to the nuance of each moment, to the detail of  life.
 
-Mindfulness practice opens us to the nuance of each moment, to the detail of  life.
-
-It reveals the unseen motives that compel us in unintended directions, with unintended consequences. 
-
-Mindfulness grows presence ...and receptivity of direct experience , wanted or unwanted.
+It reveals the unseen motives that compel us in unintended directions, with unintended consequences. Mindfulness cultivates a ground of presence and receptivity to our direct experience whatever happens.
 
 With a growing sense of spaciousness and conscious awareness ...we respond to life events rather than react. 
 
-Mindfulness is a simple practice ...but that doesn't mean it's easy. 
+Mindfulness is a simple practice ...but that doesn't mean it's easy. The benefits only come with regular and consistent practice. Every day is best. 
 
-The benefits only come with regular and consistent practice. Every day is best. 
+Mindfulness practice is not about trying, making an effort to do ... or to be a particular way or achieve a particular state. 
 
-Mindfulness practice is not about trying, making an effort to do ... or to be a particular way. 
-
-The practice is simply to notice and acknowledge what is. .
+The practice is simply to notice and acknowledge what is.
 
 To notice thoughts, feelings and sensations as they appear and disappear...and do nothing 
 
