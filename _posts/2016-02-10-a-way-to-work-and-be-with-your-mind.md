@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mindfulness is a mind training which involves \_awareness, attention and intention.\_"
-datePublished: '2016-03-17T01:04:08.544Z'
-dateModified: '2016-03-17T01:04:01.843Z'
+datePublished: '2016-03-17T01:04:29.371Z'
+dateModified: '2016-03-17T01:04:23.480Z'
 title: about mindfulness
 author: []
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
