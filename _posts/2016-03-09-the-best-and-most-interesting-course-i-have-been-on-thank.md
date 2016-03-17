@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "“I took the\ndog for a walk not knowing where I was going…I just walked. I had never just\nwandered out without a plan before…with my anxiety I always needed to know\nwhere I was going. It was a totally new experience and it was fine…I felt happy\nand elated…I realised it was perfectly OK to be without knowing. \_ \_\_8-week course participant"
-datePublished: '2016-03-17T01:05:51.641Z'
-dateModified: '2016-03-17T01:05:47.715Z'
+description: "“I took the\ndog for a walk not knowing where I was going…I just walked. I had never just\nwandered out without a plan before…with my anxiety I always needed to know\nwhere I was going. It was a totally new experience and it was fine…I felt happy\nand elated…I realised it was perfectly OK to be without knowing. \_ \_\_Course participant"
+datePublished: '2016-03-17T01:07:46.113Z'
+dateModified: '2016-03-17T01:07:37.536Z'
 title: a skilful way to be
 author: []
 sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
