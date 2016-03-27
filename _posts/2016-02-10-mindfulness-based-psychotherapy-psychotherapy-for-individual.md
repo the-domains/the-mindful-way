@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-24T22:16:24.351Z'
-dateModified: '2016-02-24T22:09:38.760Z'
+description: "Mindfulness-based psychotherapy acknowledges our inherent\_capacity for healing and health. It aims\_to support this natural ability to heal."
+datePublished: '2016-03-27T18:37:57.477Z'
+dateModified: '2016-03-27T18:37:53.191Z'
 title: mindfulness-based psychotherapy
 author: []
 sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
@@ -43,4 +43,4 @@ The intention of Mindfulness-based psychotherapy is to bring light to these shad
 
 **Enquiries & Appointments  
 **Patricia Price M.A., Reg.UKCP., Dip Supv.  
-mail@mindfulness-borders.net****
+mail@mindfulness-borders.net**https://www.linkedin.com/in/patriciasprice******
