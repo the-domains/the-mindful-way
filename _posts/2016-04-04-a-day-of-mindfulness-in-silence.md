@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: |-
-  A day of
+  You are invited ...A day of
   Mindfulness in Silence
-datePublished: '2016-04-04T20:59:29.891Z'
-dateModified: '2016-04-04T20:59:11.386Z'
+datePublished: '2016-04-04T21:00:24.355Z'
+dateModified: '2016-04-04T21:00:17.880Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-a-day-of-mindfulness-in-silence.md
@@ -48,4 +48,5 @@ For all those with a Mindfulness practice
 Participants should have completed an 8-week course or equivalent
 
 **_Places are limited so please book early to ensure a
-place_**
+place  
+mail@mindfulness-borders.net_**
