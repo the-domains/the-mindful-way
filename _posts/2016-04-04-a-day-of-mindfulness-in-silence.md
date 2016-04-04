@@ -9,18 +9,18 @@ keywords: []
 description: |-
   A day of
   Mindfulness in Silence
-datePublished: '2016-04-04T20:59:03.064Z'
-dateModified: '2016-04-04T20:58:50.523Z'
+datePublished: '2016-04-04T20:59:29.891Z'
+dateModified: '2016-04-04T20:59:11.386Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-a-day-of-mindfulness-in-silence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-a-day-of-mindfulness-in-silence.md
-published: true
 _type: Blurb
 
 ---
