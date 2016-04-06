@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme.\_"
-datePublished: '2016-04-06T01:43:26.497Z'
-dateModified: '2016-04-06T01:43:15.471Z'
+datePublished: '2016-04-06T01:45:10.852Z'
+dateModified: '2016-04-06T01:45:01.142Z'
 title: 'tasters & courses'
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
