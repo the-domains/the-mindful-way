@@ -1,6 +1,6 @@
 name: The Mindful Way
 favicon: null
-layout_spectrum: 0.23529
+layout_spectrum: 1
 typography_spectrum: 0.44052
 title: the mindful way
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.8125
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
