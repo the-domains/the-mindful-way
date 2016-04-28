@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme.\_"
-datePublished: '2016-04-06T01:45:10.852Z'
-dateModified: '2016-04-06T01:45:01.142Z'
-title: 'tasters & courses'
+description: 'Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. '
+datePublished: '2016-04-28T11:52:19.902Z'
+dateModified: '2016-04-28T11:51:55.430Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: free-taster-session/index.html
 _type: WebPage
 
