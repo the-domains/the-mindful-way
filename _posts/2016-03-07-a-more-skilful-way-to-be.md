@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: “I caught myself rushing and getting anxious about how long the water was taking to run in the bath – then I remembered I could do it differently. I stopped and watched the running water; I watched it flowing from the tap. I’d never seen it like that before. It was such a beautiful experience. Then a thought came to me – what else have I been missing?”  Course participant
-datePublished: '2016-04-28T13:54:42.793Z'
-dateModified: '2016-04-28T13:54:35.285Z'
+datePublished: '2016-04-28T13:54:57.914Z'
+dateModified: '2016-04-28T13:54:50.277Z'
 title: ''
 author:
   - name: ''
