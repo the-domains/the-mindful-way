@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. '
-datePublished: '2016-04-28T11:52:19.902Z'
-dateModified: '2016-04-28T11:51:55.430Z'
+description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders '
+datePublished: '2016-04-28T13:47:57.497Z'
+dateModified: '2016-04-28T13:47:50.109Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -22,37 +22,35 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-**You are invited ...  
-to A day of Mindfulness in Silence**
+**A day of Mindfulness in Silence**  
+Saturday 7 May 2016 9.30 -- 5.00 pm   
+Chisholme House, nr Roberton, Hawick, Scottish Borders
 
-- A day to revive and immerse yourself in Mindfulness   
+****- A day to revive and immerse yourself in Mindfulness   
 - Be replenished & nourished with the support of guided practice  
 - Expand awareness and deepen your sense of embodiment  
 - Revisit your intention for practice  
 - Awaken the senses in this tranquil setting and the beauty of nature
 
-**Saturday 7 May 2016**  
-**9.30 -- 5.00 pm**  
-Chisholme House, nr Roberton, Hawick, Scottish Borders  
 £35 per person (includes all refreshments & lunch)  
-Facilitator: Patricia Price
-
-For all those with a Mindfulness practice  
-Participants should have completed an 8-week course or equivalent
-
-**_Places are limited so please book early to ensure a place_**
-
+Participants should have completed an 8-week course or equivalent  
 ****_mail@mindfulness-borders.net_****
 
-**Course Facilitator **Patricia Price completed the MA in Mindfulness-based Psychotherapy with the [Karuna Institute][0] in 2000\. Registered with the [UK Council for Psychotherapy][1], she practices in Edinburgh and the Scottish Borders.
+**Course Facilitator **Patricia Price   
+**https://www.linkedin.com/in/patriciasprice**
 
-Following a PG Diploma in Mindfulness Studies with the University of Aberdeen, she continues academic study on the MSc programme. 
+**Diploma in Relational Mindfulness ****_in Edinburgh  
+_**Part 1 Monday 9 -- Friday 13 May 2016
+'Mindfulness in Relationship'  
+Part 2 Monday 27 -- Thursday 30 June 2016 'Liminal Mind'  
+Tutor: Maura Sills, Founder & Director of Karuna Institute
 
-Patricia has attended teaching skills courses with Mindfulness Scotland, the Mindfulness Association and ongoing teaching skills study with the Centre for Mindfulness Research & Practice at Bangor University.
+Contact Jacqui Aplin Tel +44 (0)1647 221457  
+web/email: office@karuna-institute.co.uk
 
-Her work in the field of Mindfulness is supported by participation in many retreats and a lifelong interest in and practice of Mindfulness meditation.
+This two part Diploma course is intended to give a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy, one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and selfhood are integrated with the intention to understand and alleviate the suffering that emerges from our conditional self-forms.
 
-**https://www.linkedin.com/in/patriciasprice **
+www.karuna-institute.co.uk
 
-[0]: http://thekaruna-institute.co.uk/
-[1]: http://www.ukcp.org/
+Approved by the British Psychological Society Learning Centre for the purposes of Continuing Professional Development (CPD).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
