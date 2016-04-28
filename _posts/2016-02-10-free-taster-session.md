@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders '
-datePublished: '2016-04-28T13:47:57.497Z'
-dateModified: '2016-04-28T13:47:50.109Z'
+description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
+datePublished: '2016-04-28T13:48:26.813Z'
+dateModified: '2016-04-28T13:48:13.870Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -39,9 +39,7 @@ Participants should have completed an 8-week course or equivalent
 **Course Facilitator **Patricia Price   
 **https://www.linkedin.com/in/patriciasprice**
 
-**Diploma in Relational Mindfulness ****_in Edinburgh  
-_**Part 1 Monday 9 -- Friday 13 May 2016
-'Mindfulness in Relationship'  
+**Diploma in Relational Mindfulness ****_in Edinburgh_**Part 1 Monday 9 -- Friday 13 May 2016 'Mindfulness in Relationship'  
 Part 2 Monday 27 -- Thursday 30 June 2016 'Liminal Mind'  
 Tutor: Maura Sills, Founder & Director of Karuna Institute
 
