@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: '9 -13 May Seminar 1 Mindfulness in Relationship 27- 30 June Seminar 2 Liminal Mind See www.karuna-institute.co.uk '
-datePublished: '2016-05-03T12:40:07.131Z'
-dateModified: '2016-05-03T12:40:02.417Z'
+datePublished: '2016-05-03T12:41:16.693Z'
+dateModified: '2016-05-03T12:41:06.965Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
