@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: A Karuna Institute  Diploma Course See www.karuna-institute.co.uk
-datePublished: '2016-05-03T12:36:47.070Z'
-dateModified: '2016-05-03T12:36:14.428Z'
+datePublished: '2016-05-03T12:37:27.137Z'
+dateModified: '2016-05-03T12:37:04.332Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
