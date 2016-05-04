@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
-datePublished: '2016-04-28T13:48:26.813Z'
-dateModified: '2016-04-28T13:48:13.870Z'
+datePublished: '2016-05-04T10:47:03.345Z'
+dateModified: '2016-05-04T10:46:48.008Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -46,9 +46,7 @@ Tutor: Maura Sills, Founder & Director of Karuna Institute
 Contact Jacqui Aplin Tel +44 (0)1647 221457  
 web/email: office@karuna-institute.co.uk
 
-This two part Diploma course is intended to give a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy, one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and selfhood are integrated with the intention to understand and alleviate the suffering that emerges from our conditional self-forms.
-
-www.karuna-institute.co.uk
+This two part Diploma course is intended to give a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy, one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and self-hood are integrated with the intention to understand and alleviate the suffering that emerges from our conditional self-forms.
 
 Approved by the British Psychological Society Learning Centre for the purposes of Continuing Professional Development (CPD).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
