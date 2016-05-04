@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
-datePublished: '2016-05-04T10:47:03.345Z'
-dateModified: '2016-05-04T10:46:48.008Z'
+datePublished: '2016-05-04T10:48:29.624Z'
+dateModified: '2016-05-04T10:48:08.814Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
