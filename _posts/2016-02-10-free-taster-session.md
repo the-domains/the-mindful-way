@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' A day of Mindfulness in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
-datePublished: '2016-05-04T14:31:35.174Z'
-dateModified: '2016-05-04T14:31:29.719Z'
+description: ' A day of Mindfulness Practice in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
+datePublished: '2016-05-05T18:43:13.865Z'
+dateModified: '2016-05-05T18:43:04.703Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -21,15 +21,11 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-**A day of Mindfulness in Silence**  
+**A day of Mindfulness Practice in Silence**  
 Saturday 7 May 2016 9.30 -- 5.00 pm   
 Chisholme House, nr Roberton, Hawick, Scottish Borders
 
-****- A day to revive and immerse yourself in Mindfulness   
-- Be replenished & nourished with the support of guided practice  
-- Expand awareness and deepen your sense of embodiment  
-- Revisit your intention for practice  
-- Awaken the senses in this tranquil setting and the beauty of nature
+Immerse yourself in Mindfulness for a day and be replenished & nourished with the support of guided practice. Revisit your intention for practice, expand awareness, awaken the senses and deepen your sense of embodimentin this tranquil setting and the beauty of nature
 
 £35 per person (includes all refreshments & lunch)  
 Participants should have completed an 8-week course or equivalent  
