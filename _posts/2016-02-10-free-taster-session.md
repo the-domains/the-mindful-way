@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' A day of Mindfulness Practice in Silence Saturday 7 May 2016 9.30 – 5.00 pm  Chisholme House, nr Roberton, Hawick, Scottish Borders'
-datePublished: '2016-05-05T18:47:31.826Z'
-dateModified: '2016-05-05T18:47:22.652Z'
+description: 'Diploma in Relational Mindfulness in Edinburgh '
+datePublished: '2016-05-06T20:13:34.834Z'
+dateModified: '2016-05-06T20:13:22.114Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -21,18 +21,7 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-**A day of Mindfulness Practice in Silence**  
-Saturday 7 May 2016 9.30 -- 5.00 pm   
-Chisholme House, nr Roberton, Hawick, Scottish Borders
-
-Immerse yourself in Mindfulness for a day and be replenished & nourished with the support of guided practice. Revisiting your intention for practice, expand awareness, awaken the senses and deepen your sense of embodiment in this tranquil setting and the beauty of nature
-
-£35 per person (includes all refreshments & lunch)  
-Participants should have completed an 8-week course or equivalent  
-****_mail@mindfulness-borders.net_****
-
-**Course Facilitator **Patricia Price   
-**https://www.linkedin.com/in/patriciasprice**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
 
 **Diploma in Relational Mindfulness ****_in Edinburgh_**
 
@@ -46,4 +35,3 @@ web/email: office@karuna-institute.co.uk
 This two part Diploma course is intended to give a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy, one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and self-hood are integrated with the intention to understand and alleviate the suffering that emerges from our conditional self-forms.
 
 Approved by the British Psychological Society Learning Centre for the purposes of Continuing Professional Development (CPD).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
