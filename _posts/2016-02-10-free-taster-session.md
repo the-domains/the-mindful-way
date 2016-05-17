@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Diploma in Relational Mindfulness in Edinburgh '
-datePublished: '2016-05-06T20:13:34.834Z'
-dateModified: '2016-05-06T20:13:22.114Z'
+description: Diploma in Relational Mindfulness in Edinburgh
+datePublished: '2016-05-17T21:12:52.201Z'
+dateModified: '2016-05-17T21:12:28.490Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -21,13 +21,12 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
-
 **Diploma in Relational Mindfulness ****_in Edinburgh_**
 
 Part 1 Monday 9 -- Friday 13 May 2016 'Mindfulness in Relationship'  
 Part 2 Monday 27 -- Thursday 30 June 2016 'Liminal Mind'  
 Tutor: Maura Sills, Founder & Director of Karuna Institute
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
 
 Contact Jacqui Aplin Tel +44 (0)1647 221457  
 web/email: office@karuna-institute.co.uk
