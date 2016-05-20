@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Diploma in Relational Mindfulness in Edinburgh
-datePublished: '2016-05-20T21:21:06.022Z'
-dateModified: '2016-05-20T21:20:03.775Z'
+datePublished: '2016-05-20T21:21:15.881Z'
+dateModified: '2016-05-20T21:21:07.778Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-free-taster-session.md
@@ -27,6 +27,6 @@ Tutor: Maura Sills, Founder & Director of Karuna Institute
 Contact Jacqui Aplin Tel +44 (0)1647 221457  
 web/email: office@karuna-institute.co.uk
 
-This two part Diploma course gives a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy. Core Process is one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and self-hood are integrated with the intention to understand and alleviate the suffering that emerges from our conditional self-forms.
+This two part Diploma course gives a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy. Core Process is one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and self-hood are integrated with the intention of understanding and alleviating the suffering that emerges from our conditional self-forms.
 
 Approved by the British Psychological Society Learning Centre for the purposes of Continuing Professional Development (CPD).
