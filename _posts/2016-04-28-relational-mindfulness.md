@@ -6,17 +6,13 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: A Diploma Course with the Karuna Institute
-datePublished: '2016-05-04T21:53:16.321Z'
-dateModified: '2016-05-04T21:53:10.798Z'
+datePublished: '2016-05-20T21:22:20.119Z'
+dateModified: '2016-05-20T21:22:15.081Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 _type: Blurb
 
