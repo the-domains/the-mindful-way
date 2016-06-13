@@ -4,11 +4,18 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Diploma in Relational Mindfulness in Edinburgh
-datePublished: '2016-05-20T21:21:15.881Z'
-dateModified: '2016-05-20T21:21:07.778Z'
+description: >-
+  Are you interested in refreshing and deepening your Mindfulness Practice? I am
+  offering an occasional (monthly or so) regular evening session open to all
+  those who have completed an 8-week Mindfulness course starting: Date: Monday 4
+  July 2016 Time: 7.00-m to 9.30pm Cost: £10 Venue: The Meeting House, Abbey
+  Row, Kelso, TD5 7JF Facilitator: Patricia Price
+datePublished: '2016-06-13T20:40:45.978Z'
+dateModified: '2016-06-13T20:40:44.925Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-10-free-taster-session.md
 authors: []
 publisher: null
@@ -17,16 +24,13 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-**Diploma in Relational Mindfulness ****_in Edinburgh_**
+**Are you interested in refreshing and deepening your Mindfulness Practice? **I am offering an occasional (monthly or so) regular evening session open to all those who have completed an 8-week Mindfulness course starting:  
+_Date:_ Monday 4 July 2016  
+_Time:_ 7.00-m to 9.30pm _Cost: _£10  
+_Venue:_ The Meeting House, Abbey Row, Kelso, TD5 7JF  
+_Facilitator: _Patricia Price
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9309540a716a5db6e71073aca453ed2849be698b.jpg)
 
-Part 1 Monday 9 -- Friday 13 May 2016 'Mindfulness in Relationship'  
-Part 2 Monday 27 -- Thursday 30 June 2016 'Liminal Mind'  
-Tutor: Maura Sills, Founder & Director of Karuna Institute
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b7415d-1e1e-4afc-99e0-00f3a91cedd1.jpg)
+_The Group Effect - t_he group effect is an established fact. You may be struggling to maintain a regular practice on your own and Mindfulness practise can feel easier and enhanced within the collective intention of a group. This is a chance to revive and deepen your practice and to reconnect with other local Mindfulers.
 
-Contact Jacqui Aplin Tel +44 (0)1647 221457  
-web/email: office@karuna-institute.co.uk
-
-This two part Diploma course gives a preliminary grounding in the basic theory and practice of mindfulness within psychotherapeutic practice. Participants are introduced to key therapeutic contemplative approaches and relational skills, grounded in the practice of Core Process Psychotherapy. Core Process is one of the original mindfulness-based therapeutic forms. It invites us to listen at depth to self, other and to the relational field through adapting ancient Buddhist mindfulness practices for working jointly in relationship. In Core Process Psychotherapy Eastern and Western theories of being and self-hood are integrated with the intention of understanding and alleviating the suffering that emerges from our conditional self-forms.
-
-Approved by the British Psychological Society Learning Centre for the purposes of Continuing Professional Development (CPD).
+Please let me know as soon as possible and by **Monday 26th of June** at the latest, if you wish to attend email: mail@mindfulness-borders.net
