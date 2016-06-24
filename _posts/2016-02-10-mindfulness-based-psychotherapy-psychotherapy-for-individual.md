@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Core Process Psychotherapy is a Mindfulness-based psychotherapeutic approach. '
-datePublished: '2016-05-20T21:18:37.254Z'
-dateModified: '2016-05-20T21:18:30.887Z'
+datePublished: '2016-06-24T19:07:27.014Z'
+dateModified: '2016-06-24T19:07:09.017Z'
 title: mindfulness-based psychotherapy
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
+sourcePath: >-
+  _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
 authors: []
 publisher: null
 starred: false
@@ -27,7 +28,7 @@ It acknowledges our inherent capacity for healing and health. and invites a dept
 
 The Core Process Psychotherapist brings attention in a particular way to what is here in the present moment awaiting recognition.
 
-Through mindful and heartful inquiry, this gentle, non-invasive approach enables you to self reveal the root of our current problems .
+Through mindful and heartful inquiry, this non-invasive approach enables insight and awareness at the root of current problems .
 
 Step by step the assumptions, beliefs, expectations and underlying motives directing our thoughts, emotions and feelings become known.
 
