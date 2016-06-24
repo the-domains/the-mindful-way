@@ -10,8 +10,8 @@ description: >-
   those who have completed an 8-week Mindfulness course starting: Date: Monday 4
   July 2016 Time: 7.00-m to 9.30pm Cost: £10 Venue: The Meeting House, Abbey
   Row, Kelso, TD5 7JF Facilitator: Patricia Price
-datePublished: '2016-06-24T19:01:14.737Z'
-dateModified: '2016-06-24T19:01:10.921Z'
+datePublished: '2016-06-24T19:02:55.991Z'
+dateModified: '2016-06-24T19:02:26.665Z'
 title: ''
 author:
   - name: ''
