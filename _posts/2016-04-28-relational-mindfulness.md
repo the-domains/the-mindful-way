@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: A Diploma Course with the Karuna Institute
-datePublished: '2016-05-20T21:22:20.119Z'
-dateModified: '2016-05-20T21:22:15.081Z'
+description: 'Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10 '
+datePublished: '2016-07-01T15:35:42.562Z'
+dateModified: '2016-07-01T15:35:35.653Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
@@ -17,11 +17,18 @@ starred: false
 _type: Blurb
 
 ---
-A Diploma Course with the Karuna Institute
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e846843-7dc3-4c0e-8ce4-d8744d670146.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb852b29-84aa-42a9-a91a-e9c496a1f27c.jpg)
 
-9 -13 May   
-Seminar 1 _Mindfulness in Relationship_  
-27- 30 June   
-Seminar 2 _Liminal Mind  
-_karuna-institute.co.uk__
+Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10 
+
+8-week course Starts Tuesday 13 September 2016 10.00am - 12.00 pm 
+
+Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL Facilitators: Patricia Price & Gwen Bedey 
+
+Bookings & Information   
+edinburghmindfulness@gmail.com   
+www.mindfulness-borders.net   
+T: 01573 225372 M: 07969 690020   
+This is a secular course and contains no religious content.
+
+__
