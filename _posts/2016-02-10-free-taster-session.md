@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Mindfulness Practice Session '
-datePublished: '2016-07-02T11:12:56.678Z'
-dateModified: '2016-07-02T11:12:51.151Z'
+description: Mindfulness Practice Session
+datePublished: '2016-07-02T21:35:45.269Z'
+dateModified: '2016-07-02T21:35:13.430Z'
 title: ''
 author:
   - name: ''
