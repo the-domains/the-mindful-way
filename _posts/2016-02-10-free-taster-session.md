@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Mindfulness Practice Session
-datePublished: '2016-07-02T21:36:15.324Z'
-dateModified: '2016-07-02T21:36:09.245Z'
+datePublished: '2016-07-02T21:37:44.779Z'
+dateModified: '2016-07-02T21:37:14.798Z'
 title: ''
 author:
   - name: ''
