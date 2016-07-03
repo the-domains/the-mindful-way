@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Mindfulness Deepening Retreat 2016...on the Holy Isle
-datePublished: '2016-07-03T20:24:15.392Z'
-dateModified: '2016-07-03T20:24:10.962Z'
+datePublished: '2016-07-03T20:25:16.790Z'
+dateModified: '2016-07-03T20:25:07.060Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
@@ -19,7 +19,7 @@ _type: WebPage
 ---
 **Mindfulness Deepening Retreat 2016...on the Holy Isle**
 
-27- 31 August retreat \*fully booked - add your name to the waiting list?   
+27- 31 August retreat \*full - add your name to the waiting list?   
 Vee Freir and Patricia Price are delighted to be offering this retreat again on the tranquil and beautiful [Holy Isle][0].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ab00ce3-bc7c-44f1-bc3d-9a8b8c56e3f4.JPG)
 
