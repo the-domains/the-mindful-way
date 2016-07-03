@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Mindfulness Practice Session
-datePublished: '2016-07-03T14:13:01.754Z'
-dateModified: '2016-07-03T14:12:52.562Z'
+datePublished: '2016-07-03T20:20:48.667Z'
+dateModified: '2016-07-03T20:20:40.636Z'
 title: ''
 author:
   - name: ''
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: free-taster-session/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****Mindfulness Practice Session****
