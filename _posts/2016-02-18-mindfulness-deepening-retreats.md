@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Mindfulness Deepening Retreat 2016...on the Holy Isle
-datePublished: '2016-07-03T20:25:16.790Z'
-dateModified: '2016-07-03T20:25:07.060Z'
+datePublished: '2016-07-03T20:25:26.886Z'
+dateModified: '2016-07-03T20:25:23.221Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
