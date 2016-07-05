@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
   Sessions Deepening Practice Days & Retreats
-datePublished: '2016-07-05T14:37:33.596Z'
-dateModified: '2016-07-05T14:37:26.028Z'
+datePublished: '2016-07-05T14:41:25.412Z'
+dateModified: '2016-07-05T14:41:15.780Z'
 title: ''
 author:
   - name: ''
@@ -27,7 +27,7 @@ Refresher Practice Sessions
 Deepening Practice Days & Retreats****
 
 _8-week Mindfulness-based Stress Reduction Course in _**Kelso**  
-_Daytime and Evening courses starts September 2016  
+_Daytime and Evening courses start early September 2016  
 Facilitator: Patricia Price_
 
 Information & Bookings  
