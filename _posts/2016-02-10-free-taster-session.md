@@ -4,9 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Mindfulness Practice Session
-datePublished: '2016-07-03T20:20:48.667Z'
-dateModified: '2016-07-03T20:20:40.636Z'
+description: >-
+  Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
+  Sessions Deepening Practice Days & Retreats
+datePublished: '2016-07-05T14:30:52.988Z'
+dateModified: '2016-07-05T14:30:14.925Z'
 title: ''
 author:
   - name: ''
@@ -19,15 +21,17 @@ url: free-taster-session/index.html
 _type: WebPage
 
 ---
-****Mindfulness Practice Session****
+****Tasters & Introductory Courses  
+8-week Mindfulness Courses  
+Refresher Practice Sessions  
+Deepening Practice Days & Retreats****
 
-_Open to those who have completed an 8-week course or have some previous experience of Mindfulness_
+_8-week Mindfulness-based Stress Reduction Course in _**Kelso**  
+_Daytime and Evening courses starts September 2016  
+Facilitator: Patricia Price_
 
-Monday 4 July 2016  
-7.00-m to 9.30pm  
-The Meeting House, Abbey Row, Kelso, TD5 7JF  
-Cost: £10  
-Facilitator: Patricia Price
+Information & Bookings  
+[email][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9309540a716a5db6e71073aca453ed2849be698b.jpg)
 
 Are you struggling to maintain a regular practice on your own?Mindfulness practise can be enhanced within the collective intention of a group. 
@@ -35,3 +39,5 @@ Are you struggling to maintain a regular practice on your own?Mindfulness practi
 This is a chance to revive and deepen your practice and to reconnect with other local Mindfulers.
 
 email: mail@mindfulness-borders.net
+
+[0]: mail@mindfulness-borders.net
