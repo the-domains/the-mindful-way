@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10 '
-datePublished: '2016-07-05T16:20:13.876Z'
-dateModified: '2016-07-05T16:20:09.799Z'
+datePublished: '2016-07-05T16:28:59.178Z'
+dateModified: '2016-07-05T16:28:50.537Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
@@ -27,11 +27,9 @@ Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10
 Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
 Facilitators: Patricia Price & Gwen Bedey 
 
-Bookings & Information   
 edinburghmindfulness@gmail.com   
-www.mindfulness-borders.net   
 T: 01573 225372 M: 07969 690020 
 
-This is a secular course and contains no religious content.
+These are secular courses and contain no religious content.
 
 __
