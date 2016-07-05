@@ -1,20 +1,20 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10 '
-datePublished: '2016-07-03T20:23:22.408Z'
-dateModified: '2016-07-03T20:23:15.981Z'
+datePublished: '2016-07-05T14:35:09.468Z'
+dateModified: '2016-07-05T14:34:56.980Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 authors: []
 publisher: null
 starred: false
-url: edinburgh-courses/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 **Discover the power of Mindfulness**
