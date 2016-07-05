@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
   Sessions Deepening Practice Days & Retreats
-datePublished: '2016-07-05T14:31:06.817Z'
-dateModified: '2016-07-05T14:30:56.306Z'
+datePublished: '2016-07-05T14:33:18.289Z'
+dateModified: '2016-07-05T14:33:09.998Z'
 title: ''
 author:
   - name: ''
@@ -33,11 +33,5 @@ Facilitator: Patricia Price_
 Information & Bookings  
 [email][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9309540a716a5db6e71073aca453ed2849be698b.jpg)
-
-Are you struggling to maintain a regular practice on your own?Mindfulness practise can be enhanced within the collective intention of a group. 
-
-This is a chance to revive and deepen your practice and to reconnect with other local Mindfulers.
-
-email: mail@mindfulness-borders.net
 
 [0]: mail@mindfulness-borders.net
