@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10 '
-datePublished: '2016-07-05T16:30:48.662Z'
-dateModified: '2016-07-05T16:30:41.680Z'
+datePublished: '2016-07-05T16:31:23.780Z'
+dateModified: '2016-07-05T16:30:57.187Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
