@@ -1,14 +1,15 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
   Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
   Sessions Deepening Practice Days & Retreats
-datePublished: '2016-07-05T14:33:18.289Z'
-dateModified: '2016-07-05T14:33:09.998Z'
+datePublished: '2016-07-05T14:37:33.596Z'
+dateModified: '2016-07-05T14:37:26.028Z'
 title: ''
 author:
   - name: ''
@@ -17,8 +18,7 @@ sourcePath: _posts/2016-02-10-free-taster-session.md
 authors: []
 publisher: null
 starred: false
-url: free-taster-session/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ****Tasters & Introductory Courses  
