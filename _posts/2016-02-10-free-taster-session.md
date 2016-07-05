@@ -1,15 +1,14 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
   Sessions Deepening Practice Days & Retreats
-datePublished: '2016-07-05T14:41:57.514Z'
-dateModified: '2016-07-05T14:41:53.001Z'
+datePublished: '2016-07-05T16:21:10.185Z'
+dateModified: '2016-07-05T16:20:54.073Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +17,8 @@ sourcePath: _posts/2016-02-10-free-taster-session.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: borders-courses/index.html
+_type: WebPage
 
 ---
 ****Tasters & Introductory Courses  
