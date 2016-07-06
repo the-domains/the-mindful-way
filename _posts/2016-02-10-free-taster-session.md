@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Tasters & Introductory Courses 8-week Mindfulness Courses Refresher Practice
   Sessions Deepening Practice Days & Retreats
-datePublished: '2016-07-05T16:31:56.475Z'
-dateModified: '2016-07-05T16:31:19.741Z'
+datePublished: '2016-07-06T08:52:35.858Z'
+dateModified: '2016-07-06T08:52:35.457Z'
 title: ''
 author:
   - name: ''
