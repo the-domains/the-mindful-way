@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T21:47:07.178Z'
+datePublished: '2016-08-05T09:29:08.984Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T21:47:06.431Z'
+dateModified: '2016-08-05T09:29:08.180Z'
 title: ''
 publisher: {}
-description: Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10
+description: ' Discover the power of Mindfulness '
 inLanguage: null
 inNav: true
 starred: false
@@ -18,12 +18,12 @@ url: edinburgh-courses/index.html
 _type: Article
 
 ---
-Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10
-
-8-week course Starts Tuesday 13 September 2016 10.00am - 12.00 pm
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
 **Discover the power of Mindfulness**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb852b29-84aa-42a9-a91a-e9c496a1f27c.jpg)
+
+Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm - £10  
+8-week course Starts Tuesday 13 September 2016 10.00am - 12.00 pm
 
 Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
 Facilitators: Patricia Price & Gwen Bedey
