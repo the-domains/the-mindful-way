@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-15T14:33:29.405Z'
+datePublished: '2016-08-15T14:33:36.515Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-15T14:33:24.603Z'
+dateModified: '2016-08-15T14:33:35.843Z'
 title: ''
 publisher: {}
 description: >-
-  Diploma in Relational Mindfulness 17-21 April & 12-16 June 2017 in Edinburgh
-  Tutor - Maura Sills, founder and Director of the Karuna Institute
-starred: false
+  Diploma in Relational Mindfulness17-21 April & 12-16 June 2017 in
+  EdinburghTutor - Maura Sills, founder and Director of the Karuna Institute
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
+starred: true
 _type: Blurb
 
 ---
