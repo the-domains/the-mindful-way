@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-15T14:42:13.756Z'
+datePublished: '2016-08-15T19:42:09.858Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-15T14:42:12.274Z'
+dateModified: '2016-08-15T19:42:09.029Z'
 title: ''
 publisher: {}
 description: >-
+  ‘Mindfulness in Relationship’  an introduction to Core Process Psychotherapy 
   A two-day workshop with Maura Sills founder of Core Process Psychotherapy and
-  the Karuna Institute  24 & 25 September 2016 in Glasgow Mindfulness has the
+  the Karuna Institute  24 & 25 September 2016 in Glasgow  Mindfulness has the
   potential to transform how we experience ourselves, others and the world.
   Grounded in the belief that awareness is inherently healing, the workshop
   explores how cultivating awareness, compassion, presence and spaciousness can
@@ -22,9 +23,11 @@ url: mindfulness-in-relationship-an-introduction-to-core-process/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9313cf9c-fb10-452d-a930-8c46904d03f3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5456e7f-ae96-445d-b0da-4bdcf5ad9a59.jpg)
 
-**A two-day workshop **_**with Maura Sills** founder of Core Process Psychotherapy and the Karuna Institute _  
+**'Mindfulness in Relationship' **  
+**an introduction to Core Process Psychotherapy**  
+**A two-day workshop **_**with Maura Sills **founder of Core Process Psychotherapy and the Karuna Institute _  
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
@@ -43,7 +46,7 @@ Maura Sills was a nun in the Theravadan Buddhist tradition and a District Head O
 _**Information & Bookings**_  
 **Jacqui Aplin **Tel +44 (0)1647 221457   
 email: [office@karuna-institute.co.uk][0]  
-More about Core Process Psychotherapy and the [Karuna Institute][1] workshops and courses
+For more about Core Process Psychotherapy, other courses and training vist the [Karuna Institute][1] website.
 
  
 
