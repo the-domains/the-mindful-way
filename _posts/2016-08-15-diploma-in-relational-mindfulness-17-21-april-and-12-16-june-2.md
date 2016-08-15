@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-15T14:33:36.515Z'
+datePublished: '2016-08-15T14:38:29.289Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-15T14:33:35.843Z'
+dateModified: '2016-08-15T14:38:28.636Z'
 title: ''
 publisher: {}
 description: >-
@@ -11,7 +11,7 @@ description: >-
   EdinburghTutor - Maura Sills, founder and Director of the Karuna Institute
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
-starred: true
+starred: false
 _type: Blurb
 
 ---
