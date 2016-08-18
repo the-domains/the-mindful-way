@@ -1,27 +1,28 @@
 ---
-inFeed: true
+datePublished: '2016-08-18T15:24:23.035Z'
+sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
+inFeed: false
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-18T15:24:22.313Z'
+title: ''
+publisher: {}
 description: >-
   “I took the dog for a walk not knowing where I was going…I just walked. I had
   never just wandered out without a plan before…with my anxiety I always needed
   to know where I was going. It was a totally new experience and it was fine…I
   felt happy and elated…I realised it was perfectly OK to be without knowing.
   Course Participant
-datePublished: '2016-07-06T08:51:59.904Z'
-dateModified: '2016-07-06T08:51:51.011Z'
-title: ''
-author: []
-sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
 url: the-best-and-most-interesting-course-i-have-been-on-thank/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dd0345a-143d-4c9e-8c37-93ebc50df714.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f633ce95e3fad0401cf3566f62a477f81adba16.jpg)
 
 "I took the dog for a walk not knowing where I was going...I just walked. I had never just wandered out without a plan before...with my anxiety I always needed to know where I was going. It was a totally new experience and it was fine...I felt happy and elated...I realised it was perfectly OK to be without knowing. _Course Participant_
