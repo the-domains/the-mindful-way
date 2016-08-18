@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T20:07:01.558Z'
+datePublished: '2016-08-18T15:14:49.571Z'
 sourcePath: _posts/2016-02-10-free-taster-session.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-08T20:07:01.362Z'
+dateModified: '2016-08-18T15:14:49.040Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ description: >-
   KelsoFacilitator: Patricia Price
 inLanguage: null
 inNav: true
-starred: false
+starred: true
 url: borders-courses/index.html
 _type: WebPage
 
