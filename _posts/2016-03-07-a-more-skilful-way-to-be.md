@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-18T15:23:53.692Z'
+datePublished: '2016-08-18T15:27:56.964Z'
 sourcePath: _posts/2016-03-07-a-more-skilful-way-to-be.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-18T15:23:53.135Z'
+dateModified: '2016-08-18T15:27:56.309Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ inLanguage: null
 inNav: false
 starred: false
 url: be-present-be-more/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70ad0e7933ca833d5e0495650ff6145da01d307a.jpg)
