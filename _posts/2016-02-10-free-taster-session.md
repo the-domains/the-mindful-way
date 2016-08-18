@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T15:22:44.835Z'
+datePublished: '2016-08-18T17:11:18.197Z'
 sourcePath: _posts/2016-02-10-free-taster-session.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T15:22:44.111Z'
+dateModified: '2016-08-18T17:11:17.747Z'
 title: ''
 publisher: {}
 description: >-
@@ -32,3 +32,11 @@ _Facilitator: Patricia Price_
 mail@mindfulness-borders.net
 
 Mindfulness-based Stress Reduction (MBSR) is a secular course for beginners.
+
+This Taster Session will include:  
+- What Mindfulness is and isn't?  
+- Its origin and development  
+- A chance to experience Mindfulness practice for yourself (facilitator-led)  
+- The benefits of practice  
+You don't need to bring anything on the evening -- just your curiosity and interest! Our start time is 7.00pm and we aim to complete around 9.00pm  
+Booking is essential as places are limited.
