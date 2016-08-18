@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-18T15:42:44.072Z'
+datePublished: '2016-08-18T22:35:02.817Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T15:42:43.450Z'
+dateModified: '2016-08-18T22:35:02.345Z'
 title: Diploma in Relational Mindfulness
 publisher: {}
 description: >-
