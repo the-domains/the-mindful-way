@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T00:30:32.512Z'
+datePublished: '2016-08-19T00:42:28.370Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T00:30:31.953Z'
+dateModified: '2016-08-19T00:42:27.662Z'
 title: Discover the Power of Mindfulness
 publisher: {}
 description: Courses in Edinburgh
@@ -24,9 +24,10 @@ _type: Article
 Courses in Edinburgh
 
 **Taster Session**  
-Tuesday 6 September 2016 10.00am - 12.00 pm - £10  
+Tuesday 6 September 2016 10.00am - 12.00 pm
+
 **8-week Mindfulness-based Living **course  
-...starts Tuesday 13 September 2016 10.00am - 12.00 pm  
+starts Tuesday 13 September 2016 10.00am - 12.00 pm  
 Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
 Facilitators: Patricia Price & Gwen Bedey
 
