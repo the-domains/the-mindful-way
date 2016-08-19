@@ -4,7 +4,7 @@
         <description><![CDATA[the mindful way]]></description>
         <link>http://www.mindfulness-borders.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 00:41:07 GMT</lastBuildDate>
         <atom:link href="http://www.mindfulness-borders.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mindfulness]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9728026d-ecf9-4864-94bf-68792634fd44.jpg</link>
             <guid isPermaLink="false">5a75b966-86d6-4214-90bf-3d82b6f80f07</guid>
             <pubDate>Mon, 15 Aug 2016 14:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mindfulness in Relationship - an introduction to Core Process Psychotherapy]]></title>
+            <description><![CDATA[<article><h1>Mindfulness in Relationship - an introduction to Core Process Psychotherapy</h1><p>A two-day workshop with Maura Sills founder of Core Process Psychotherapy and the Karuna Institute 24 & 25 September 2016 in Glasgow</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/951adb1b-4ea6-4132-8ed5-ec9f6d16b05d.jpg"></article>]]></description>
+            <link>http://www.mindfulness-borders.net/mindfulness-in-relationship-an-introduction-to-core-process/index.html</link>
+            <guid isPermaLink="false">8ecb43e4-3a5b-4783-b0e4-923300af976b</guid>
+            <pubDate>Fri, 19 Aug 2016 00:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discover the Power of Mindfulness]]></title>
@@ -33,13 +40,6 @@
             <link>http://www.mindfulness-borders.net/diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2/index.html</link>
             <guid isPermaLink="false">be24927a-5528-4703-a07f-6e2d6652ee06</guid>
             <pubDate>Thu, 18 Aug 2016 22:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mindfulness in Relationship  an Introduction to Core Process Psychotherapy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/951adb1b-4ea6-4132-8ed5-ec9f6d16b05d.jpg">]]></description>
-            <link>http://www.mindfulness-borders.net/mindfulness-in-relationship-an-introduction-to-core-process/index.html</link>
-            <guid isPermaLink="false">8ecb43e4-3a5b-4783-b0e4-923300af976b</guid>
-            <pubDate>Thu, 18 Aug 2016 15:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
