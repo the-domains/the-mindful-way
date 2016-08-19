@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T23:09:34.504Z'
+datePublished: '2016-08-19T00:30:32.512Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T23:09:33.799Z'
-title: ''
+dateModified: '2016-08-19T00:30:31.953Z'
+title: Discover the Power of Mindfulness
 publisher: {}
-description: Discover the power of Mindfulness
+description: Courses in Edinburgh
 inLanguage: null
 inNav: true
 starred: false
@@ -18,11 +18,13 @@ url: edinburgh-courses/index.html
 _type: Article
 
 ---
+### Discover the Power of Mindfulness
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
-**Discover the power of Mindfulness**
+Courses in Edinburgh
 
-**Taster Session** Tuesday 6 September 2016 10.00am - 12.00 pm - £10  
+**Taster Session**  
+Tuesday 6 September 2016 10.00am - 12.00 pm - £10  
 **8-week Mindfulness-based Living **course  
 ...starts Tuesday 13 September 2016 10.00am - 12.00 pm  
 Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
@@ -55,7 +57,7 @@ The course includes eight weekly sessions on Tuesdays from 10.00am to 12.00pm, a
 
 The content of the course is mainly an experiential and all Mindfulness practices are led by trained Mindfulness Facilitators.
 
-Cost: £185 this includes a PDF of the Course manual with week by week theory and practice instruction, access to 16 audio files of guided practices to download and use for your personal practice, and a day of practice in a rural location.
+Cost: £185 this includes a 65-page PDF of the course manual with week by week theory and practice instruction, access to 16 audio files of guided practices to download and use for your personal practice, and a day of practice in a rural location.
 
 Booking is essential as places are limited.
 
