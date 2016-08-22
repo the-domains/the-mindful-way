@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T20:49:54.778Z'
+datePublished: '2016-08-22T21:27:01.129Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T20:49:53.750Z'
+dateModified: '2016-08-22T21:27:00.499Z'
 title: Courses in Edinburgh
 publisher: {}
-description: Taster SessionTuesday 6 September 2016 10.00am - 12.00 pm
+description: Taster Session Tuesday 6 September 2016  10.00am - 12.00 pm
 inLanguage: null
 inNav: true
 starred: true
@@ -22,23 +22,17 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
 **Taster Session**  
-Tuesday 6 September 2016 10.00am - 12.00 pm
+Tuesday 6 September 2016   
+10.00am - 12.00 pm
 
-**8-week Mindfulness-based Living course (MBLC)**  
-starts Tuesday 13 September 2016 10.00am - 12.00 pm  
-Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
-Facilitators: Patricia Price & Gwen Bedey
-
-**Information & Bookings**  
-T 01573 225372 M 07969 690020   
-[edinburghmindfulness@gmail.com][0]
-
-This is a secular course and contains no religious content
+**8-week Mindfulness-based Living course **  
+starts Tuesday 13 September 2016   
+10.00am - 12.00 pm
 
 **The Taster Session **  
 This is an opportunity to experience Mindfulness for yourself and is a pre-requisite if you wish to apply for the 8-week course. There is no obligation to attend further courses.
 
-The Taster will include  
+The Taster Session will include  
 - What Mindfulness is and isn't  
 - The Origins and Application of Mindfulness  
 - A chance to experience Mindfulness practices (guided by course facilitators)  
@@ -58,6 +52,13 @@ The content of the course is mainly an experiential and all Mindfulness practice
 
 Cost: £185 this includes a 65-page PDF of the course manual with week by week theory and practice instruction, access to 16 audio files of guided practices to download and use for your personal practice, and a day of practice in a rural location.
 
-Booking is essential as places are limited.
+**Venue**: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
+**Facilitators**: Patricia Price & Gwen Bedey
+
+**Information & Bookings**  
+T 01573 225372 M 07969 690020   
+[edinburghmindfulness@gmail.com][0]
+
+Booking is essential as places are limited. These are secular courses and contains no religious content.
 
 [0]: http://edinburghmindfulness@gmail.com/ "Email"
