@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:27:01.129Z'
+datePublished: '2016-08-22T21:47:15.930Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:27:00.499Z'
+dateModified: '2016-08-22T21:47:15.220Z'
 title: Courses in Edinburgh
 publisher: {}
 description: Taster Session Tuesday 6 September 2016  10.00am - 12.00 pm
@@ -30,9 +30,7 @@ starts Tuesday 13 September 2016
 10.00am - 12.00 pm
 
 **The Taster Session **  
-This is an opportunity to experience Mindfulness for yourself and is a pre-requisite if you wish to apply for the 8-week course. There is no obligation to attend further courses.
-
-The Taster Session will include  
+This is an opportunity to experience Mindfulness for yourself and is a pre-requisite if you wish to apply for the 8-week course. There is no obligation to attend further courses.The Taster Session will include  
 - What Mindfulness is and isn't  
 - The Origins and Application of Mindfulness  
 - A chance to experience Mindfulness practices (guided by course facilitators)  
