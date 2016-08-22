@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-22T20:51:33.844Z'
+datePublished: '2016-08-22T20:53:05.375Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:51:33.266Z'
+dateModified: '2016-08-22T20:53:04.712Z'
 title: Mindfulness in Relationship an introduction to Core Process Psychotherapy
 publisher: {}
 description: >-
