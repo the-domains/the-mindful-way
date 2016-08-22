@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-22T20:28:08.956Z'
+datePublished: '2016-08-22T20:29:05.383Z'
 sourcePath: _posts/2016-08-18-free-taster-session.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:28:08.375Z'
+dateModified: '2016-08-22T20:29:04.482Z'
 title: Mindfulness in the Borders
 publisher: {}
 description: FREE Taster Session
-starred: false
+starred: true
 url: free-taster-session/index.html
 _type: Article
 
