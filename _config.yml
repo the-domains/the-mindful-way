@@ -28,6 +28,9 @@ navigation:
   - name: Courses in the Borders
     id: 995ee48a-fcd4-44a0-8947-c51ca106ce94
     type: content
+  - name: Courses in Edinburgh
+    id: e90043ba-d18d-4560-aead-262a48e8205d
+    type: content
 favicon: null
 title: the mindful way
 purpose: []
