@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-22T20:54:48.574Z'
+datePublished: '2016-08-22T20:56:19.161Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:54:47.942Z'
+dateModified: '2016-08-22T20:56:18.686Z'
 title: Diploma in Relational Mindfulness
 publisher: {}
 description: >-
   17-21 April & 12-16 June 2017in EdinburghTutor - Maura Sills, founder and
   Director of the Karuna Institute
-starred: true
+starred: false
 url: diploma-in-relational-mindfulness/index.html
-_type: Article
+_type: Blurb
 
 ---
 ### **Diploma in Relational Mindfulness**
