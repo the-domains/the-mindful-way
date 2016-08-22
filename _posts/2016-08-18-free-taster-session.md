@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-22T20:29:40.054Z'
+datePublished: '2016-08-22T20:32:52.760Z'
 sourcePath: _posts/2016-08-18-free-taster-session.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T20:29:39.432Z'
+dateModified: '2016-08-22T20:32:51.984Z'
 title: Mindfulness in the Borders
 publisher: {}
 description: >-
   FREE Taster Session  Thursday 8 September 7.00 to 9.00pm at The Meeting House,
   Abbey Row, Kelso, TD5 7JF
 starred: true
-url: free-taster-session/index.html
-_type: Article
+_type: Blurb
 
 ---
 ### Mindfulness in the Borders
