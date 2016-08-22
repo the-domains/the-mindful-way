@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-22T20:32:17.287Z'
+datePublished: '2016-08-22T20:51:33.844Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
-hasPage: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:32:16.803Z'
+dateModified: '2016-08-22T20:51:33.266Z'
 title: Mindfulness in Relationship an introduction to Core Process Psychotherapy
 publisher: {}
 description: >-
   A two-day workshop with Maura Sills founder of Core Process Psychotherapy and
   the Karuna Institute 24 & 25 September 2016 in Glasgow
 starred: true
-_type: Blurb
+url: mindfulness-in-relationship-an-introduction-to-core-process/index.html
+_type: Article
 
 ---
 ### **Mindfulness in Relationship **  
