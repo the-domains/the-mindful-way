@@ -1,4 +1,3 @@
-layout_spectrum: 0.3107746865134686
 typography_spectrum: 0.18107442138716578
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0.5
-name: The Mindful Way
-favicon: null
-title: the mindful way
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3107746865134686
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Mindful Way
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Courses in the Borders
+    id: 995ee48a-fcd4-44a0-8947-c51ca106ce94
+    type: content
+favicon: null
+title: the mindful way
 purpose: []
