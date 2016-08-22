@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T20:34:33.848Z'
+datePublished: '2016-08-22T20:35:07.060Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,20 +7,19 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T20:34:33.357Z'
-title: Discover the Power of Mindfulness
+dateModified: '2016-08-22T20:35:06.338Z'
+title: Courses in Edinburgh
 publisher: {}
-description: Courses in EdinburghTaster SessionTuesday 6 September 2016 10.00am - 12.00 pm
+description: Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm
 inLanguage: null
 inNav: true
 starred: true
 _type: Blurb
 
 ---
-### Discover the Power of Mindfulness
+### Courses in Edinburgh
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
-**Courses in Edinburgh**  
 **Taster Session**  
 Tuesday 6 September 2016 10.00am - 12.00 pm
 
