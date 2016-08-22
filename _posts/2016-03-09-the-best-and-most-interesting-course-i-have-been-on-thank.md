@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:03:55.872Z'
+datePublished: '2016-08-22T21:04:09.370Z'
 sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
 inFeed: false
 authors: []
@@ -7,13 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:03:46.704Z'
+dateModified: '2016-08-22T21:04:08.854Z'
 title: Testimonials
 publisher: {}
 description: What course participants said…
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: the-best-and-most-interesting-course-i-have-been-on-thank/index.html
 _type: Blurb
 
