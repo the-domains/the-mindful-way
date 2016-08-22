@@ -34,6 +34,9 @@ navigation:
   - name: Core Process Psychotherapy
     id: bdd07803-6260-4046-bb18-9380adda8ece
     type: content
+  - name: Mindfulness in Relationship
+    id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
+    type: content
   - name: Diploma Course
     id: be24927a-5528-4703-a07f-6e2d6652ee06
     type: content
@@ -42,9 +45,6 @@ navigation:
     type: content
   - name: Testimonials
     id: ed29f4c1-ee65-48cc-8722-501cc6a062c7
-    type: content
-  - name: Mindfulness in Relationship
-    id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
     type: content
 favicon: null
 title: the mindful way
