@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T00:27:46.982Z'
+datePublished: '2016-08-22T20:28:08.956Z'
 sourcePath: _posts/2016-08-18-free-taster-session.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T00:27:46.165Z'
+dateModified: '2016-08-22T20:28:08.375Z'
 title: Mindfulness in the Borders
 publisher: {}
 description: FREE Taster Session
@@ -23,15 +23,16 @@ FREE Taster Session
 Thursday 8 September 7.00 to 9.00pm  
 at The Meeting House, Abbey Row, Kelso, TD5 7JF
 
-**8-week Mindfulness-based Stress Reduction course**  
-starts Thursday 15 September  
+**8-week Mindfulness-based Stress Reduction course (MBSR)**  
+starts Thursday 15 September 7.00 to 9.30pm  
 Facilitator: Patricia Price
 
-Bookings & Information  
-T 01573 225372 M 07796 530 119  
+**Bookings & Information**  
+T 01573 225372   
+M 07796 530 119  
 [mail@mindfulness-borders.net][0]
 
-**The Taster Session** includes:
+**This Taster Session** includes:
 
 - What Mindfulness is and isn't?  
 - Its origin and development  
@@ -48,7 +49,7 @@ was developed by an American doctor, John Kabat Zin, as a means of reducing stre
 
 The MBSR is now delivered in hospitals, health and social care services, organisational settings, schools, criminal justice services and even in Parliament!
 
-This 8-week course gives a thorough grounding in the practice and principles of Mindfulness. The course is mainly experiential with the focus on the three core practices. 
+This 8-week course gives a thorough grounding in the practice and principles of Mindfulness. The course is mainly experiential with the focus on the three core practices.
 
 Home practice is a key aspect of the course and this is encouraged from the outset of the course. All practices are led by a trained facilitator.
 
