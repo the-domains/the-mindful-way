@@ -1,7 +1,18 @@
+layout_spectrum: 0.3107746865134686
+typography_spectrum: 0.18107442138716578
+color:
+  brandColors:
+    - '#ffffff'
+    - '#75aeff'
+    - '#19181e'
+    - '#3c57a2'
+    - '#a39990'
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 name: The Mindful Way
 favicon: null
-layout_spectrum: 0.11249318649061024
-typography_spectrum: 0.36300390609540045
 title: the mindful way
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#75aeff'
-    - '#19181e'
-    - '#3c57a2'
-    - '#a39990'
-  brandStrength: 0.25
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
