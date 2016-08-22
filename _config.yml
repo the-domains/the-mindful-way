@@ -37,6 +37,9 @@ navigation:
   - name: Core Process Psychotherapy
     id: bdd07803-6260-4046-bb18-9380adda8ece
     type: content
+  - name: Diploma Course
+    id: be24927a-5528-4703-a07f-6e2d6652ee06
+    type: content
 favicon: null
 title: the mindful way
 purpose: []
