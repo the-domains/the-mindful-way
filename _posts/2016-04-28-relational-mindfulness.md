@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:47:15.930Z'
+datePublished: '2016-08-22T21:58:08.377Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:47:15.220Z'
+dateModified: '2016-08-22T21:58:07.730Z'
 title: Courses in Edinburgh
 publisher: {}
-description: Taster Session Tuesday 6 September 2016  10.00am - 12.00 pm
+description: Taster Session Tuesday 6 September 2016 10.00am - 12.00 pm
 inLanguage: null
 inNav: true
 starred: true
@@ -22,7 +22,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
 **Taster Session**  
-Tuesday 6 September 2016   
+Tuesday 6 September 2016  
 10.00am - 12.00 pm
 
 **8-week Mindfulness-based Living course **  
