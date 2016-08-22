@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-22T20:30:53.863Z'
+datePublished: '2016-08-22T20:36:29.290Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T20:30:53.137Z'
+dateModified: '2016-08-22T20:36:28.449Z'
 title: Diploma in Relational Mindfulness
 publisher: {}
 description: >-
-  17-21 April & 12-16 June 2017 in Edinburgh Tutor - Maura Sills, founder and
+  17-21 April & 12-16 June 2017in EdinburghTutor - Maura Sills, founder and
   Director of the Karuna Institute
-starred: false
-url: diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
 ### **Diploma in Relational Mindfulness**
@@ -31,9 +30,7 @@ In Core Process Psychotherapy, Eastern and Western theories of being and selfhoo
 
 Seminar 1 - **Mindfulness in Relationship** 17-21 April 2017  
 Seminar 2 - **Liminal Mind** 12-16 June 2017  
-Venue - Gillis Centre, 100 Strathearn Road, Edinburgh EH9 1BB Cost - £1,200 _(a deposit of £600 is required to secure your place. This is non-refundable and non-transferable)_
-
-**Bookings & Enquiries**  
+Venue - Gillis Centre, 100 Strathearn Road, Edinburgh EH9 1BB Cost - £1,200 _(a deposit of £600 is required to secure your place. This is non-refundable and non-_**Bookings & Enquiries**  
 Jacqui Aplin  
 Tel +44 (0) 1647 221457  
 Email office@keranua-institute.co.uk
