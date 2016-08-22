@@ -1,32 +1,30 @@
 ---
-datePublished: '2016-08-19T00:42:28.370Z'
+datePublished: '2016-08-22T20:34:33.848Z'
 sourcePath: _posts/2016-04-28-relational-mindfulness.md
 inFeed: true
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T00:42:27.662Z'
+dateModified: '2016-08-22T20:34:33.357Z'
 title: Discover the Power of Mindfulness
 publisher: {}
-description: Courses in Edinburgh
+description: Courses in EdinburghTaster SessionTuesday 6 September 2016 10.00am - 12.00 pm
 inLanguage: null
 inNav: true
-starred: false
-url: edinburgh-courses/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
 ### Discover the Power of Mindfulness
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ffb5ac-facc-4b30-9c09-920f3850a77c.jpg)
 
-Courses in Edinburgh
-
+**Courses in Edinburgh**  
 **Taster Session**  
 Tuesday 6 September 2016 10.00am - 12.00 pm
 
-**8-week Mindfulness-based Living **course  
+**8-week Mindfulness-based Living course (MBLC)**  
 starts Tuesday 13 September 2016 10.00am - 12.00 pm  
 Venue: Union Yoga, 25 Rodney Street, Edinburgh EH7 4EL   
 Facilitators: Patricia Price & Gwen Bedey
