@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Core Process Psychotherapy is a Mindfulness-based psychotherapeutic approach. '
-datePublished: '2016-08-22T20:52:14.018Z'
-dateModified: '2016-08-22T20:52:12.846Z'
+datePublished: '2016-08-22T20:53:47.975Z'
+dateModified: '2016-08-22T20:53:47.487Z'
 title: mindfulness-based psychotherapy
 author:
   - name: ''
