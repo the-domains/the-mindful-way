@@ -43,6 +43,9 @@ navigation:
   - name: Testimonials
     id: ed29f4c1-ee65-48cc-8722-501cc6a062c7
     type: content
+  - name: Mindfulness in Relationship
+    id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
+    type: content
 favicon: null
 title: the mindful way
 description: Discover the Power of Mindfulness
