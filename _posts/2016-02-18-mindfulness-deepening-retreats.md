@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:53:40.658Z'
+datePublished: '2016-08-24T22:58:47.682Z'
 sourcePath: _posts/2016-02-18-mindfulness-deepening-retreats.md
 inFeed: false
 authors: []
@@ -7,13 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:53:40.115Z'
-title: ''
+dateModified: '2016-08-24T22:58:46.054Z'
+title: Mindfulness Deepening Retreat
 publisher: {}
 description: >-
-  Mindfulness Deepening Retreat  The retreat is for anyone who has done an
-  8-week MBCT/MBSR course and wishes to deepen their personal experience and
-  understanding of Mindfulness practice.
+  The retreat is for anyone who has done an 8-week MBCT/MBSR course and wishes
+  to deepen their personal experience and understanding of Mindfulness practice.
 inLanguage: null
 inNav: true
 starred: false
@@ -21,9 +20,9 @@ url: mindfulness-deepening-retreats/index.html
 _type: WebPage
 
 ---
+### **Mindfulness Deepening Retreat**
 ![The Holy Isle jetty](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b195b80b-4b72-4148-a2e9-ef9a3ac2f7fc.jpg)
 
-**Mindfulness Deepening Retreat**  
 The retreat is for anyone who has done an 8-week MBCT/MBSR course and wishes to deepen their personal experience and understanding of Mindfulness practice.
 
 We are happy for others who have a personal Mindfulness practice and wish to explore a purely secular application, to join this retreat but would ask that you are in touch before booking just to check this is the retreat for you.
