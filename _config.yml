@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: What is Mindfulness?
+    id: d71dd9de-df32-4ec4-a0d2-326b1a8ff422
+    type: content
   - name: Courses in the Borders
     id: 995ee48a-fcd4-44a0-8947-c51ca106ce94
     type: content
@@ -45,9 +48,6 @@ navigation:
     type: content
   - name: Testimonials
     id: ed29f4c1-ee65-48cc-8722-501cc6a062c7
-    type: content
-  - name: What is Mindfulness?
-    id: d71dd9de-df32-4ec4-a0d2-326b1a8ff422
     type: content
   - name: In crisis?
     id: 6ca170ff-aa12-4b3f-a1ce-3c331869f3a7
