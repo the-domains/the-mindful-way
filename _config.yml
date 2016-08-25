@@ -49,6 +49,9 @@ navigation:
   - name: In crisis?
     id: 6ca170ff-aa12-4b3f-a1ce-3c331869f3a7
     type: content
+  - name: Mindfulness-based Psychotherapy
+    id: bdd07803-6260-4046-bb18-9380adda8ece
+    type: content
 favicon: null
 title: the mindful way
 description: Discover the Power of Mindfulness
