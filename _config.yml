@@ -34,9 +34,6 @@ navigation:
   - name: Courses in Edinburgh
     id: e90043ba-d18d-4560-aead-262a48e8205d
     type: content
-  - name: Core Process Psychotherapy
-    id: bdd07803-6260-4046-bb18-9380adda8ece
-    type: content
   - name: Mindfulness in Relationship
     id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
     type: content
