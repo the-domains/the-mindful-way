@@ -1,4 +1,3 @@
-layout_spectrum: 0.8040628745220602
 typography_spectrum: 0.4649380368646234
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8040628745220602
 analytics:
   google: null
   facebook: null
@@ -45,6 +45,9 @@ navigation:
     type: content
   - name: Testimonials
     id: ed29f4c1-ee65-48cc-8722-501cc6a062c7
+    type: content
+  - name: What is Mindfulness?
+    id: d71dd9de-df32-4ec4-a0d2-326b1a8ff422
     type: content
 favicon: null
 title: the mindful way
