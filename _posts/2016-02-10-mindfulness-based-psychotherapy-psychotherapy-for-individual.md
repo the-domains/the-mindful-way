@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:34:32.277Z'
+datePublished: '2016-08-25T00:19:20.396Z'
 sourcePath: >-
   _posts/2016-02-10-mindfulness-based-psychotherapy-psychotherapy-for-individual.md
 inFeed: false
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T21:34:31.588Z'
+dateModified: '2016-08-25T00:19:19.530Z'
 title: Core Process Psychotherapy
 publisher: {}
 description: >-
