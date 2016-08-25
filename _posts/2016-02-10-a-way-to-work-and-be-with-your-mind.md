@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:21:00.318Z'
+datePublished: '2016-08-25T00:16:26.723Z'
 sourcePath: _posts/2016-02-10-a-way-to-work-and-be-with-your-mind.md
 inFeed: false
 authors: []
@@ -7,12 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:20:59.816Z'
+dateModified: '2016-08-25T00:16:25.859Z'
 title: What is Mindfulness?
 publisher: {}
 description: >-
   Mindfulness is a mind training which involves awareness, attention and
-  intention.  With patience and practice, mindfulness cultivates a way of
+  intention.With patience and practice, mindfulness cultivates a way of
   accompanying and being in harmony with the wandering mind. We gently guide the
   wandering mind with a lightness of touch and return our attention to the
   chosen point of focus.
