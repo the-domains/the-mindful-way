@@ -49,6 +49,9 @@ navigation:
   - name: What is Mindfulness?
     id: d71dd9de-df32-4ec4-a0d2-326b1a8ff422
     type: content
+  - name: In crisis?
+    id: 6ca170ff-aa12-4b3f-a1ce-3c331869f3a7
+    type: content
 favicon: null
 title: the mindful way
 description: Discover the Power of Mindfulness
