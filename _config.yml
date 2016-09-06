@@ -43,9 +43,6 @@ navigation:
   - name: Diploma Course
     id: be24927a-5528-4703-a07f-6e2d6652ee06
     type: content
-  - name: Retreats
-    id: 07c01f21-b03b-4f48-ad51-8ebb0736cc5f
-    type: content
   - name: Testimonials
     id: ed29f4c1-ee65-48cc-8722-501cc6a062c7
     type: content
