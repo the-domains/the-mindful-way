@@ -1,4 +1,3 @@
-layout_spectrum: 0.9008398074656725
 typography_spectrum: 0.11054738657549024
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9008398074656725
 analytics:
   google: null
   facebook: null
@@ -37,7 +37,7 @@ navigation:
   - name: Mindfulness-based Psychotherapy
     id: bdd07803-6260-4046-bb18-9380adda8ece
     type: content
-  - name: Mindfulness in Relationship
+  - name: Relationsal Mindfulness Workshop
     id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
     type: content
   - name: Diploma Course
