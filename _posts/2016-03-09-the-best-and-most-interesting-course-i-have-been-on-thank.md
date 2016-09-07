@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T11:36:07.432Z'
+datePublished: '2016-09-03T12:40:21.091Z'
 sourcePath: _posts/2016-03-09-the-best-and-most-interesting-course-i-have-been-on-thank.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-03T11:36:06.820Z'
+dateModified: '2016-09-03T12:40:20.478Z'
 title: Testimonials
 publisher: {}
 description: What course participants said…
@@ -24,7 +24,7 @@ What course participants said...
 
 "I have loved this course - to my great surprise. It has been a revelation. My sleep is returning and I feel much calmer. Long may I continue to do this!"
 
-"I really really enjoyed the course. Patricia's wisdom, kindness and patience made her an excellent tutor. Thank you - this is such a valuable life skill. I truly believe this the start of something very important for my and my family."
+"I really really enjoyed the course. Patricia's wisdom, kindness and patience made her an excellent tutor. Thank you - this is such a valuable life skill. I truly believe this is the start of something very important for me and my family."
 
 "The pacing was perfect. The programme excellent and insightful."
 
