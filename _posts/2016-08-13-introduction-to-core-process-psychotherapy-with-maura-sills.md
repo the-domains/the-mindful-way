@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-22T21:57:33.855Z'
+datePublished: '2016-09-03T12:52:22.630Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T21:57:32.961Z'
+dateModified: '2016-09-03T12:52:22.096Z'
 title: Mindfulness in Relationship
 publisher: {}
 description: >-
@@ -21,10 +21,10 @@ url: mindfulness-in-relationship/index.html
 _type: Article
 
 ---
-### Mindfulness in Relationship
+## Mindfulness in Relationship
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/951adb1b-4ea6-4132-8ed5-ec9f6d16b05d.jpg)
 
-**A two-day workshop **_**with Maura Sills**_  
+**A two-day workshop with**_****_**Maura Sills**  
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
