@@ -28,14 +28,14 @@ navigation:
   - name: What is Mindfulness?
     id: d71dd9de-df32-4ec4-a0d2-326b1a8ff422
     type: content
+  - name: Mindfulness-based Psychotherapy
+    id: bdd07803-6260-4046-bb18-9380adda8ece
+    type: content
   - name: Courses in the Borders
     id: 995ee48a-fcd4-44a0-8947-c51ca106ce94
     type: content
   - name: Courses in Edinburgh
     id: e90043ba-d18d-4560-aead-262a48e8205d
-    type: content
-  - name: Mindfulness-based Psychotherapy
-    id: bdd07803-6260-4046-bb18-9380adda8ece
     type: content
   - name: Relational Mindfulness Workshop
     id: 3827da7a-35fd-45f8-9a24-e100aef5cc9f
